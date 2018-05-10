@@ -1765,12 +1765,14 @@ display: inline-block;
 ========================================================*/
 .footer {
 	background: #191b1f;
-	padding: 50px 0;
+	padding: 20px 0; 
+	text-align: center;
 }
 .footer p {
 	/*color: #666666;*/
 	color: #999;
-	line-height: 36px;
+	line-height: 22px;
+	font-size: 14px;
 }
 
 .footer a {
@@ -2768,25 +2770,75 @@ flex-wrap: wrap;
 	text-align: center;
 
 }
+.content-noticia{
+padding-bottom: 20px;
 
-/* CARROUSEL D NOTICIAS  */ 
+}
+.noticia-title{
+	text-align: left;
+	font-size: 16px;
+}
+.noticia-review{
+	font-size:14px;
+	line-height: 18px;
+	text-align: justify;
+	padding: 10px  0 20px  0;   
+}
+.noticia-link{
+	background-color: #7C2C40;
+	padding: 10px 20px;
+	color: white;
+	border-radius: 8px;
 
 
+}
+/*.ion-ios-arrow-thin-right{
+	font-size: 32px;
+	font-weight: bold;
+
+}*/
+.revista-link{
+	background-color: white;
+	padding: 10px 20px;
+	color:#134A7A;
+	font-weight: bold;
+	border-radius: 6px;
+	font-size: 16px;
+	margin:20px 0 0 80px;
+	display: inline-block;
+}
+.title-revista{
+	/*border:1px solid green;*/
+	margin-top:80px;
+	font-size: 28px; 
+	color:white;
+}
+
+
+
+
+/* ********************* CARROUSEL D NOTICIAS  ******************* */ 
+
+.pager li>a{
+ /*background-color: red;*/
+}
 .arrowContent{
-	border: 2px solid green;
+	/*border: 2px solid green;*/
 	top:80px;
 	width:100%;
 	position: absolute;
 
+
 }
 .arrowL{
-	border:1px solid red;
+	/*border:1px solid red;*/
 	float:left;
 	margin-left: -20px;
+
 }
 
 .arrowR{
-	border:1px solid red;
+	/*border:1px solid red;*/
 	float:right;
 	margin-right: -20px;
 }
@@ -2845,4 +2897,5 @@ li { list-style-type:none;}
 ::selection { background: #ff5e99; color: #FFFFFF; text-shadow: 0; }
 ::-moz-selection { background: #ff5e99; color: #FFFFFF; }
 
-/* FIN DE CARROUSEL DE NOTICIAS  */
+
+/* ********************* FIN CARROUSEL D NOTICIAS  ******************* */ 
