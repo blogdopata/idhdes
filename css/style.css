@@ -533,7 +533,7 @@ header nav .ownmenu .indicator {
 .is-sticky .sticky {
 	padding-top: 15px;
 	padding-bottom: 15px;
-	background: rgba(0,0,0,0.9);
+	background: rgba(20, 74, 121, 1);
 	-webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
 	-o-transition: all 0.4s ease-in-out;
@@ -2733,7 +2733,7 @@ flex-wrap: wrap;
     margin-top: 0% !important;
 }
 
-/*  FIXEANDO STYLES */
+/* ************************************ FIXEANDO STYLES  **************************** */
 
 .topContent{
 
@@ -2753,7 +2753,7 @@ flex-wrap: wrap;
 }
 
 .ownmenu{
-	background: rgba(0, 0, 0, 0.5);
+	/*background: rgba(0, 0, 0, 0.5);*/
 }
 .title-two{
 	/*border: 1px solid red;*/
@@ -2899,3 +2899,25 @@ li { list-style-type:none;}
 
 
 /* ********************* FIN CARROUSEL D NOTICIAS  ******************* */ 
+
+
+
+/* ********************  FIX DDEMAS CONTENIDOS  ********************************************/ 
+.header-content{
+	background-color: #144A79;
+	/*border: 1px solid red;*/
+	margin: 0;
+	padding-top:  70px;
+	padding-bottom: 20px;
+}
+
+
+.title-contenido{
+	margin-top: 60px;
+	border:1px solid red;
+}
+
+
+.ownmenu-v{
+	/*background: rgba(20, 74, 121, 1);*/
+}
