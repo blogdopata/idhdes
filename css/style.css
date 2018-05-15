@@ -2814,9 +2814,20 @@ padding-bottom: 20px;
 	color:white;
 }
 
-
-
-
+.fixBox{
+	padding-top:76px;
+	padding-bottom:20px;
+	background:white;
+}
+.h4-marginTop30{
+	margin-top: 30px
+}
+.fixBox-D{
+	background-color: #E0E0E0 ;
+	padding-top:75px;
+	margin-bottom:0px;
+	padding-bottom:60px;
+}
 /* ********************* CARROUSEL D NOTICIAS  ******************* */ 
 
 .pager li>a{
@@ -2827,6 +2838,7 @@ padding-bottom: 20px;
 	top:80px;
 	width:100%;
 	position: absolute;
+	margin:0;
 
 
 }
@@ -2859,7 +2871,8 @@ padding-bottom: 20px;
 .control-box {
     text-align: center;
     width: 100%;
-  /*  border: 1px solid red;*/
+	z-index: 0;margin:0;
+  border: 1px solid red;
 }
 .carousel-control{
     background: #666;
@@ -2902,7 +2915,7 @@ li { list-style-type:none;}
 
 
 
-/* ********************  FIX DDEMAS CONTENIDOS  ********************************************/ 
+/* ********************  FIX DDEMAS CONTENIDOS  NO INDEX  ********************************************/ 
 .header-content{
 	background-color: #144A79;
 	/*border: 1px solid red;*/
@@ -2914,10 +2927,45 @@ li { list-style-type:none;}
 
 .title-contenido{
 	margin-top: 60px;
-	border:1px solid red;
+	/*border:1px solid red;*/
+	
 }
+.txt-General{
+	/*background-color: red;*/
+	line-height: 22px;
+	margin-top: 20px;
 
+} 
+.fix-link{
+	/*border: 1px solid red;*/
+	display: inline-block;
+	margin: 20px 0 30px 0;
+	padding-left: 30px;
+	padding-right: 30px;
+}
 
 .ownmenu-v{
 	/*background: rgba(20, 74, 121, 1);*/
+}
+
+.team-name{
+	text-align:  center;
+	font-size: 16px;
+}
+.team-cargo{
+	color:#144A79 !important;
+	font-weight: bold;
+}
+.content-team{
+padding-bottom: 20px;
+border: 1px solid red;
+cursor: pointer;
+}
+.team-review{
+	background-color: #134A7A;
+	color:white;
+	padding: 20px 60px;
+}
+#member{
+
 }

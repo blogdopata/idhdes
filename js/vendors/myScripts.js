@@ -4,3 +4,18 @@
       interval: 6000
     })
   });
+
+
+$(document).ready(function(){
+	$("#moreText").click(function(){
+
+			$("#showText" ).toggle("slow");
+	})
+});
+
+$(document).ready(function(){
+	$("#member").click(function(event){
+			 event.preventDefault();
+			$("#showMember" ).toggle("slow");
+	})
+});
