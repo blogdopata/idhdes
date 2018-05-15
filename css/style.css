@@ -2872,7 +2872,7 @@ padding-bottom: 20px;
     text-align: center;
     width: 100%;
 	z-index: 0;margin:0;
-  border: 1px solid red;
+  /*border: 1px solid red;*/
 }
 .carousel-control{
     background: #666;
@@ -2936,6 +2936,7 @@ li { list-style-type:none;}
 	margin-top: 20px;
 
 } 
+
 .fix-link{
 	/*border: 1px solid red;*/
 	display: inline-block;
@@ -2958,7 +2959,7 @@ li { list-style-type:none;}
 }
 .content-team{
 padding-bottom: 20px;
-border: 1px solid red;
+/*border: 1px solid red;*/
 cursor: pointer;
 }
 .team-review{
@@ -2966,6 +2967,35 @@ cursor: pointer;
 	color:white;
 	padding: 20px 60px;
 }
-#member{
 
+.team-txt{
+	color: white;
+	text-align: justify; 
+	line-height: 20px;
+
+}
+.team-nameh5{
+	color: white;
+}
+.line-fix{
+	border: 1px solid #144A79;
+	text-align: center;
+	width:60%;
+	margin: 40px auto 60px auto;
+
+
+}
+.more-contenth5{
+	color: #666;
+	margin-bottom: 20px;
+}
+.more-content{
+		padding: 20px 60px;
+		color: #666666;
+
+}
+.more-txt{
+	text-align: justify; 
+	line-height: 20px;
+	color: #666;
 }

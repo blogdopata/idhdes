@@ -19,3 +19,12 @@ $(document).ready(function(){
 			$("#showMember" ).toggle("slow");
 	})
 });
+
+$(document).ready(function(){
+	$("#derHum").click(function(event){
+			 event.preventDefault();
+			$("#showDer" ).toggle("slow");
+	})
+
+
+})
