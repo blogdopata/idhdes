@@ -38,46 +38,12 @@
 
 <!-- Page Wrapper -->
 <div id="wrap"> 
+  
+  <!--    LineTop && Header -->
 
-  <div class="container-fluid hidden-sm hidden-xs topContent">
-      <div class="row">
-        <div class="col-md-6 col-md-offset-1" >
-
-           <span class="ion-android-call"> </span><span style="margin-right: 20px;">Teléfono (511) 421-5366 </span>
-
-           <span class="ion-android-mail"></span><a href="mailto:idhdes@usmp.pe"> Contacto </a>
-        </div>
-        <div class="col-md-3 col-md-offset-2">
-             <a href="#"><span class="ion-social-facebook  fixContact"> </a></span>
-             <a href="#"><span class="ion-social-twitter  fixContact"> </a></span>
-             <a href="#"><span class="ion-social-youtube  fixContact"> </a></span>
-             <a href="#"><span class="ion-social-googleplus fixContact"> </a></span>
-        </div>
-      </div>
-  </div>
-  <!-- Header -->
-  <header class="header" >
-    <div class="sticky">
-      <div class="container-fluid">
-        <div class="logo"><a href="index.html"><img src="images/logo_idhdes.png" ></a> </div>
-        
-
-        <!-- Nav -->
-        <nav>
-          <ul id="ownmenu" class="ownmenu">
-            <li class="active"><a href="index.html">Inicio</a></li>
-            <li><a href="aceleracion.html">Nosotros</a></li>
-            <li><a href="eventos.html">Formación Académica</a></li>
-            <li><a href="convocatoria.html">Convenios</a></li>
-            <li><a href="startups.html">Editorial</a></li>
-            <li><a href="socios.html">Publicaciones</a></li>
-   
-          </ul>
-        </nav>
-      </div>
-    </div>
-  </header>
-  <!-- End Header --> 
+  <?php include("parts/top.php") ?>
+  
+  <!--   End LineTp && Header --> 
   
   <!--======= HOME MAIN SLIDER =========-->
   <section class="home-slider"> 
@@ -349,7 +315,7 @@
 
                     <div class="col-md-6" >
                       <h3 class="title-revista">REVISTA IDHDES 2018</h3>
-                      <a href="/revistavirutal" class="revista-link"> Ver más <span class="ion-arrow-right-c"> </span></a>
+                      <a href="/idhdes/revistavirtual" target="_blank" class="revista-link"> Ver más <span class="ion-arrow-right-c"> </span></a>
                     </div>  
                
                  </div>
@@ -371,23 +337,20 @@
           </div>
 
           <div class="col-md-6 fixBox-D" >
-              <a href="#">
-                 <img src="images/cartPic.png" alt="">
-                <h4 class="h4-marginTop30">CARTILLA INFORMATIVA</h4>
-               </a> 
+            <a href="#">
+              <img src="images/cartPic.png" alt="">
+              <h4 class="h4-marginTop30">CARTILLA INFORMATIVA</h4>
+            </a> 
           </div>
         </div>
       </div>  
     </section>    
 
    
-  
-    <footer class="footer">
-        <p>Teléfono - 01-421-5366 , Direccion - Calle Los Pinos #250, San Isidro <br>
-            Copyright © 2016 Área de Diseño Gráﬁco y Multimedia - FIA USMP <br>
-            Todos los derechos reservados
-        </p> 
-  </footer>
+  <!--  Footer -->
+
+    <?php include("parts/footer.php") ?>
+
   <!-- End Footer --> 
   
   <!-- GO TO TOP  --> 
@@ -400,20 +363,18 @@
 <script src="js/vendors/jquery/jquery.min.js"></script> 
 <script src="js/vendors/wow.min.js"></script> 
 <script src="js/vendors/bootstrap.min.js"></script> 
-<!-- <script src="js/vendors/jquery.cubeportfolio.min.js"></script>   -->
 <script src="js/vendors/own-menu.js"></script> 
 <script src="js/vendors/jquery.sticky.js"></script> 
- <script src="js/vendors/owl.carousel.min.js"></script> 
- <script src="js/vendors/color-switcher.js"></script> 
- <script src="js/vendors/myScripts.js"></script>
+<script src="js/vendors/owl.carousel.min.js"></script> 
+<script src="js/vendors/color-switcher.js"></script> 
+<script src="js/vendors/myScripts.js"></script>
 
 <!-- SLIDER REVOLUTION 4.x SCRIPTS  --> 
 <script type="text/javascript" src="rs-plugin/js/jquery.tp.t.min.js"></script> 
 <script type="text/javascript" src="rs-plugin/js/jquery.tp.min.js"></script> 
 <script src="js/kana.js"></script>
+
+
+
 </body>
-
-
-
-
 </html>

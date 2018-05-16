@@ -28,3 +28,33 @@ $(document).ready(function(){
 
 
 })
+
+
+/* ****************** SCRIPTS DEL LINK ******************** */  
+
+  
+$(document).ready(function(){
+  var pathname = window.location.pathname;
+  //alert(pathname);
+  var nuevo = pathname.split("/");
+  //alert(nuevo[2]);
+
+  if(nuevo[2] == "nosotros.php") {
+    //alert("hola");
+    $("header").addClass("header-content");
+    //alert("hola");
+    }
+});  
+
+/* ******************  FIN SCRIPTS DEL LINK ******************** */  
+
+
+
+
+
+
+
+
+
+
+

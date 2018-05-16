@@ -2999,3 +2999,13 @@ cursor: pointer;
 	line-height: 20px;
 	color: #666;
 }
+
+
+
+
+/* ************** UTILITARIOS ************* */ 
+
+.pad-bot-30{
+	margin-bottom: 30px; 
+	background:white;
+}
