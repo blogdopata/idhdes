@@ -305,7 +305,7 @@
     <!-- Revista -->
     <section class="" style="background-color: #134A7A;" >
       <div class="container">
-          <div class="row" > 
+          <div class="row text-center" > 
             <div class="col-md-12">
                <div class="row" >
 
@@ -337,10 +337,14 @@
           </div>
 
           <div class="col-md-6 fixBox-D" >
-            <a href="#">
+            <a href="#" id="infoCartilla">
               <img src="images/cartPic.png" alt="">
               <h4 class="h4-marginTop30">CARTILLA INFORMATIVA</h4>
             </a> 
+            <div id="showCartilla" style="display: none;margin-top: 40px;">
+              <p><a href="pdf/derecho_medio_ambiente.pdf" target="_blank">Derecho al Medio Ambiente </a></p>
+              <p><a href="violenciafamiliar/index.html" target="_blank">Violencia Familiar</a></p>
+            </div>
           </div>
         </div>
       </div>  

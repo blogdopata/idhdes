@@ -1,0 +1,59 @@
+<Info>
+  <Pages>
+    <Page Number="1" Width="652" Height="781">
+      <Images>
+        <Normal Path="images/page1.swf" FileSize="124" />
+        <Thumbnail Path="images/page1_thumbnail.jpg" FileSize="10" />
+        <Zoomed Path="images/page1.swf" FileSize="124" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="2" Width="588" Height="762">
+      <Images>
+        <Normal Path="images/page2.swf" FileSize="494" />
+        <Thumbnail Path="images/page2_thumbnail.jpg" FileSize="13" />
+        <Zoomed Path="images/page2.swf" FileSize="494" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="3" Width="628" Height="762">
+      <Images>
+        <Normal Path="images/page3.swf" FileSize="221" />
+        <Thumbnail Path="images/page3_thumbnail.jpg" FileSize="9" />
+        <Zoomed Path="images/page3.swf" FileSize="221" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="4" Width="651" Height="762">
+      <Images>
+        <Normal Path="images/page4.swf" FileSize="57" />
+        <Thumbnail Path="images/page4_thumbnail.jpg" FileSize="10" />
+        <Zoomed Path="images/page4.swf" FileSize="57" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="5" Width="775" Height="603">
+      <Images>
+        <Normal Path="images/page5.swf" FileSize="1,048" />
+        <Thumbnail Path="images/page5_thumbnail.jpg" FileSize="14" />
+        <Zoomed Path="images/page5.swf" FileSize="1,048" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="6" Width="414" Height="584">
+      <Images>
+        <Normal Path="images/page6.swf" FileSize="6" />
+        <Thumbnail Path="images/page6_thumbnail.jpg" FileSize="2" />
+        <Zoomed Path="images/page6.swf" FileSize="6" />
+      </Images>
+      <Buttons />
+    </Page>
+  </Pages>
+  <TableOfContents>
+    <Bookmark PageNumber="1" Title="VF" Id="6" />
+    <Bookmark PageNumber="2" Title="VF1" Id="7" />
+    <Bookmark PageNumber="3" Title="VF2" Id="8" />
+    <Bookmark PageNumber="4" Title="VF3" Id="9" />
+    <Bookmark PageNumber="5" Title="VF4" Id="10" />
+  </TableOfContents>
+</Info>
