@@ -14,73 +14,88 @@ $(document).ready(function(){
 });
 
 /* ********************** EQUIPO DE TRABAJO       ******************************  */
-// $(document).ready(function(){
-// 	$("#member1").click(function(event){
-// 			 event.preventDefault();
-// 			$("#showMember1" ).toggle("slow");
-// 	})
-// });
 
-// $(document).ready(function(){
-// 	$("#member2").click(function(event){
-// 			 event.preventDefault();
-// 			$("#showMember2" ).toggle("slow");
-// 	});
-// });
-// $(document).ready(function(){
-// 	$("#member3").click(function(event){
-// 			 event.preventDefault();
-// 			$("#showMember3" ).toggle("slow");
-// 	});
-// });
-// $(document).ready(function(){
-// 	$("#member4").click(function(event){
-// 			 event.preventDefault();
-// 			$("#showMember4" ).toggle("slow");
-// 	});
-// });
-// $(document).ready(function(){
-// 	$("#member5").click(function(event){
-// 			 event.preventDefault();
-// 			$("#showMember5" ).toggle("slow");
-// 	});
-// });
-// $(document).ready(function(){
-// 	$("#member6").click(function(event){
-// 			 event.preventDefault();
-// 			$("#showMember6" ).toggle("slow");
-// 	});
-// });
-// $(document).ready(function(){
-// 	$("#member7").click(function(event){
-// 			 event.preventDefault();
-// 			$("#showMember7" ).toggle("slow");
-// 	});
-// });
-// $(document).ready(function(){
-// 	$("#member8").click(function(event){
-// 			 event.preventDefault();
-// 			$("#showMember8" ).toggle("slow");
-// 	});
-// });
 
-// $(document).ready(function(){
-// 	$("#member9").click(function(event){
-// 			 event.preventDefault();
-// 			$("#showMember9" ).toggle("slow");
-// 	});
-// });
 
 
 $(document).ready(function() {
 				$("#member1").click(function(event) {
 					event.preventDefault();
-		
-					$("#showMe").load('parts/member/member1.html');
+					$("#showMe").load('parts/members.html',function(){
+							$("#showMember1").hide().fadeIn();	
+					});
 				});
+
+				$("#member2").click(function(event) {
+					event.preventDefault();
+					$("#showMe").load('parts/members.html',function(){
+							$("#showMember2").hide().fadeIn();	
+					});
+				});
+					$("#member3").click(function(event) {
+					event.preventDefault();
+					$("#showMe").load('parts/members.html',function(){
+							$("#showMember3").hide().fadeIn();	
+					});
+				});
+				$("#member4").click(function(event) {
+					event.preventDefault();
+					$("#showMe").load('parts/members.html',function(){
+							$("#showMember3").hide().fadeIn();	
+					});
+				});
+				$("#member4").click(function(event) {
+					event.preventDefault();
+					$("#showMe").load('parts/members.html',function(){
+							$("#showMember4").hide().fadeIn();	
+					});
+				});
+				$("#member5").click(function(event) {
+					event.preventDefault();
+					$("#showMe").load('parts/members.html',function(){
+							$("#showMember5").hide().fadeIn();	
+					});
+				});
+				$("#member6").click(function(event) {
+					event.preventDefault();
+					$("#showMe").load('parts/members.html',function(){
+							$("#showMember6").hide().fadeIn();	
+					});
+				});
+				$("#member7").click(function(event) {
+					event.preventDefault();
+					$("#showMe").load('parts/members.html',function(){
+							$("#showMember7").hide().fadeIn();	
+					});
+				});
+				$("#member8").click(function(event) {
+					event.preventDefault();
+					$("#showMe").load('parts/members.html',function(){
+							$("#showMember8").hide().fadeIn();	
+					});
+				});
+				$("#member9").click(function(event) {
+					event.preventDefault();
+					$("#showMe").load('parts/members.html',function(){
+							$("#showMember9").hide().fadeIn();	
+					});
+				});
+
+
 });
 
 
+
+
+
+
+// $(document).ready(function() {
+// 				$("#member2").click(function(event) {
+// 					event.preventDefault();
+// 					 Se crearía una  llamada  x html
+// 					$("#showMe").load('parts/member/member2.html').hide().fadeIn('slow');
+// 				});
+// });
 
 
 
@@ -146,11 +161,25 @@ $(document).ready(function(){
   var nuevo = pathname.split("/");
   //alert(nuevo[2]);
 
+
   if(nuevo[2] == "nosotros.php") {
     //alert("hola");
     $("header").addClass("header-content");
     //alert("hola");
-    }
+    $("#link2").addClass("active");
+   }
+
+  if(nuevo[2] == "") {
+    
+    $("#link1").addClass("active");
+  } 
+  if(nuevo[2] == "index.php") {
+    
+    $("#link1").addClass("active");
+  } 
+
+
+
 });  
 
 /* ******************  FIN SCRIPTS DEL LINK ******************** */  

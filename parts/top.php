@@ -27,12 +27,12 @@
         <!-- Nav -->
         <nav>
           <ul id="ownmenu" class="ownmenu">
-            <li class="active"><a href="index.php">Inicio</a></li>
-            <li><a href="nosotros.php">Nosotros</a></li>
-            <li><a href="#">Formación Académica</a></li>
-            <li><a href="#">Convenios</a></li>
-            <li><a href="#">Editorial</a></li>
-            <li><a href="s#">Publicaciones</a></li>
+            <li id="link1"><a href="index.php">Inicio</a></li>
+            <li id="link2"><a href="nosotros.php">Nosotros</a></li>
+            <li id="link3"><a href="#">Formación Académica</a></li>
+            <li id="link4"><a href="#">Convenios</a></li>
+            <li id="link5"><a href="#">Editorial</a></li>
+            <li id="link6"><a href="#">Publicaciones</a></li>
    
           </ul>
         </nav>
