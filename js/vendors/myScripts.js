@@ -157,7 +157,8 @@ $(document).ready(function(){
   
 $(document).ready(function(){
   var pathname = window.location.pathname;
-  //alert(pathname);
+  /*alert(pathname);*/
+
   var nuevo = pathname.split("/");
   //alert(nuevo[2]);
 
@@ -173,11 +174,32 @@ $(document).ready(function(){
     
     $("#link1").addClass("active");
   } 
+
   if(nuevo[2] == "index.php") {
     
     $("#link1").addClass("active");
   } 
 
+  if( nuevo[2] != "index.php" && nuevo[2] != "" ) {
+   
+    $("header").addClass("header-content");
+   
+   }
+   /*  PARA NOTICIAS STICKY FOOTER */
+
+   if(nuevo[4] == "noticia8.php") {
+     
+    $("#footer").addClass("footer-stky");
+     console.log(nuevo);
+  } 
+   if(nuevo[4] == "noticia3.php") {
+     
+    $("#footer").addClass("footer-stky");
+     console.log(nuevo);
+  } 
+  	/*  FIN  NOTICIAS STICKY FOOTER */
+   
+ 
 
 
 });  

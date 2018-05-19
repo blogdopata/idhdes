@@ -1768,6 +1768,7 @@ display: inline-block;
 	background: #191b1f;
 	padding: 20px 0; 
 	text-align: center;
+
 }
 .footer p {
 	/*color: #666666;*/
@@ -2790,8 +2791,14 @@ padding-bottom: 20px;
 	padding: 10px 20px;
 	color: white;
 	border-radius: 8px;
+}
 
-
+.noticia-vmas{
+	position: absolute;
+	font-size: 14px;
+	top:30px;
+	float:right;
+	margin-left: 20px; 
 }
 /*.ion-ios-arrow-thin-right{
 	font-size: 32px;
@@ -3018,4 +3025,24 @@ cursor: pointer;
 .pad-bot-30{
 	margin-bottom: 30px; 
 	background:white;
+}
+.shareTwitter{
+	margin-top: 20px;
+	
+}
+.media-body{
+	padding: 5px 0 0px 10px;
+	/*border: 1px  solid red;*/
+}
+.fix-link-noticia{
+	/*border:1px solid red;*/
+	margin-top: 0px;
+	display: inline-block;
+}
+.footer-stky {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
 }

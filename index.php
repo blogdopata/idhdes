@@ -105,19 +105,19 @@
         <div class="row" >
 
             <figure class="col-md-3 col-md-offset-1 days" >
-                <a href="#">
+                <a href="contenido/besocial/lunesIgualdad.php">
                     <img src="images/lunesPic.png" alt="">
                     <p>#LunesDeIgualdad</p>
                 </a>
             </figure>
              <figure class="col-md-3 col-md-offset-1 days" >
-               <a href="#">
+               <a href="contenido/besocial/miercolesVerde.php">
                     <img src="images/miercolesPic.png" alt="">
                     <p>#MiercolesVerde</p>
                 </a>
             </figure>
              <figure class="col-md-3 col-md-offset-1 days" >
-                <a href="#">
+                <a href="contenido/besocial/viernesDesarrollo.php">
                 <img src="images/viernesPic.png" alt="">
                 <p>#ViernesDeDesarrollo</p>
                 </a>
@@ -133,8 +133,10 @@
       <div class="container">
 
         <div class="row">
-           <div class="col-xs-62"> 
-             <h2 class="title-two text-center"> NOTICIAS</h2>
+           <div class="col-xs-12"> 
+             <h2 class="title-two text-center"> NOTICIAS  <a class="noticia-link noticia-vmas"  href="contenido/noticias/noticia.php">Ver más <span class="ion-arrow-right-c"></span></a> </h2>
+
+            
           
            <div class="carousel slide" id="myCarousel"  >
                     <div class="carousel-inner">
@@ -143,12 +145,12 @@
                                     <li class="col-md-4 col-xs-6" >
                                         <div class="content-noticia">
                                             <div class="thumbnail">
-                                                <a href="#"><img src="images/noticias/1.jpg" alt=""></a>
+                                                <a href="contenido/noticias/noticia1.php"><img src="images/noticias/1.jpg" alt=""></a>
                                             </div>
                                             <div class="caption text-center">
                                                 <h4 class="noticia-title">DERECHO A LA INFORMACIÓN</h4>
-                                                <p class="noticia-review">La Asamblea General de la ONU le da largas a una propuesta que circula desde hace más de 10 años en los pasillos del foro mundial: la ley de libertad de información, un derecho otorgado a los periodistas dentro de una inmensa burocracia que se protege ...</p>
-                                                <a class="noticia-link" href="#">Leer más <span class="ion-arrow-right-c"> </span></a>
+                                                <p class="noticia-review">La Asamblea General de la ONU le da largas a una propuesta que circula desde hace más de 10 años en los pasillos del foro mundial: la ley de libertad de información, un derecho otorgado a los periodistas dentro de una inmensa burocracia que se protege ...</p> 
+                                                <a class="noticia-link" href="contenido/noticias/noticia1.php"pfa>Leer más <span class="ion-arrow-right-c"> </span></a>
                                                 
                                             </div>
                                         </div>
@@ -157,13 +159,13 @@
                                     <li class="col-md-4 col-xs-6">
                                         <div class="content-noticia">
                                             <div class="thumbnail">
-                                                <a href="#"><img src="images/noticias/2.jpg" alt=""></a>
+                                                <a href="contenido/noticias/noticia2.php"><img src="images/noticias/2.jpg" alt=""></a>
                                             </div>
                                             <div class="caption text-center">
                                                 <h4 class="noticia-title">EL INSTITUTO GEOFÍSICO DEL PERÚ REALIZAN UN SISTEMA DE PREVENCIÓN DE HUAYCOS</h4>
 
                                                 <p class="noticia-review">Un grupo de investigadores del Instituto Geofísico del Perú (IGP) trabaja en la construcción del Radar SAR, un sistema tecnológico que permitiría  ...</p>
-                                                <a class="noticia-link" href="#">Leer más <span class="ion-arrow-right-c"></span></a>
+                                                <a class="noticia-link" href="contenido/noticias/noticia2.php">Leer más <span class="ion-arrow-right-c"></span></a>
                                                 
                                             </div>
                                         </div>
@@ -172,13 +174,13 @@
                                     <li class="col-md-4 col-xs-6">
                                         <div class="content-noticia">
                                             <div class="thumbnail">
-                                                <a href="#"><img src="images/noticias/3.jpg" alt=""></a>
+                                                <a href="contenido/noticias/noticia3.php"><img src="images/noticias/3.jpg" alt=""></a>
                                             </div>
                                             <div class="caption text-center">
                                                 <h4 class="noticia-title">INCENDIO EN COMUNIDAD SHIPIBA DE CANTAGALLO</h4>
 
                                                 <p class="noticia-review">Cerca de la media noche del 3 de noviembre, se inició un incendio que devastó el asentamiento humano Cantagallo que alberga a la comunidad shipiba. Más de 280 familias, que se estima suman alrededor de ...</p>
-                                                <a class="noticia-link" href="#">Leer más <span class="ion-arrow-right-c"></span></a>
+                                                <a class="noticia-link" href="contenido/noticias/noticia3.php">Leer más <span class="ion-arrow-right-c"></span></a>
                                                 
                                             </div>
                                         </div>
@@ -193,13 +195,13 @@
                                     <li class="col-md-4 col-xs-6">
                                         <div class="content-noticia">
                                             <div class="thumbnail">
-                                                <a href="#"><img src="images/noticias/4.jpg" alt=""></a>
+                                                <a href="contenido/noticias/noticia4.php"><img src="images/noticias/4.jpg" alt=""></a>
                                             </div>
                                             <div class="caption text-center">
                                                 <h4 class="noticia-title">APEC Y SUS CUATRO PRIORIDADES</h4>
 
                                                 <p class="noticia-review">La cancillería informó que la Cumbre de Líderes del APEC 2016 se realizará bajo cuatro pilares temáticos propuestos por el Perú como país anfitrión y aprobado como prioridades del Foro que se desarrollará este noviembre en Lima ...</p>
-                                                <a class="noticia-link" href="#">Leer más <span class="ion-arrow-right-c"></span></a>
+                                                <a class="noticia-link" href="contenido/noticias/noticia4.php">Leer más <span class="ion-arrow-right-c"></span></a>
                                                 
                                             </div>
                                         </div>
@@ -207,13 +209,13 @@
                                     <li class="col-md-4 col-xs-6">
                                         <div class="" >
                                             <div class="thumbnail">
-                                                <a href="#"><img src="images/noticias/5.jpg" alt=""></a>
+                                                <a href="contenido/noticias/noticia5.php"><img src="images/noticias/5.jpg" alt=""></a>
                                             </div>
                                             <div class="caption text-center">
                                                 <h4 class="noticia-title">DERECHOS HUMANOS DE MIGRANTES, REFUGIADOS, APÁTRIDAS, VÍCTIMAS DE TRATA DE PERSONAS Y DESPLAZADOS INTERNOS</h4>
 
-                                                <p class="noticia-review">La Corte Interamericana de Derechos Humanos presento su informe que versa sobre Derechos humanos   ...</p>
-                                                <a class="noticia-link" href="#">Leer más <span class="ion-arrow-right-c"></span></a>
+                                                <p class="noticia-review">La Corte Interamericana de Derechos Humanos presento su informe que versa sobre    ...</p>
+                                                <a class="noticia-link" href="contenido/noticias/noticia5.php">Leer más <span class="ion-arrow-right-c"></span></a>
                                                 
                                             </div>
                                         </div>
@@ -221,12 +223,12 @@
                                     <li class="col-md-4 col-xs-6">
                                         <div class="content-noticia">
                                             <div class="thumbnail">
-                                                <a href="#"><img src="images/noticias/6.jpg" alt=""></a>
+                                                <a href="contenido/noticias/noticia6.php"><img src="images/noticias/6.jpg" alt=""></a>
                                             </div>
                                             <div class="caption text-center">
                                                 <h4 class="noticia-title">EL FATÍDICO 11 DE SEPTIEMBRE</h4>
                                                 <p class="noticia-review">Un 11 de Setiembre del año 2001, la ciudad de New York vivió el atentado más fatídico de su historia y del mundo. El atentado se dio a las famosas Torre Gemelas, lugar de acopio de las compañías más grandes del mercado mundial ... </p>
-                                                <a class="noticia-link" href="#">Leer más <span class="ion-arrow-right-c"></span></a>
+                                                <a class="noticia-link" href="contenido/noticias/noticia6.php">Leer más <span class="ion-arrow-right-c"></span></a>
                                                 
                                             </div>
                                         </div>
@@ -236,16 +238,16 @@
                           </div><!-- /Slide2 --> 
                         <div class="item">
                                 <ul class="thumbnails">
-                                    <li class="col-md-4 col-xs-6">   
+                                    <li class="col-md-4 col-xs-7">   
                                         <div class="content-noticia">
                                             <div class="thumbnail">
-                                                <a href="#"><img src="images/noticias/7.jpg" alt=""></a>
+                                                <a href="contenido/noticias/noticia7.php"><img src="images/noticias/7.jpg" alt=""></a>
                                             </div>
                                             <div class="caption text-center">
                                                 <h4 class="noticia-title">CONTINÚAN INUNDACIONES EN COREO DEL NORTE</h4>
 
                                                 <p class="noticia-review">El tifón Lionrock, el décimo de la témpora en el océano Pacifico provoco grandes inundaciones en la provincia de Ryanggang y sobre todo Hamgyong del Norte, zonas fronterizas con China ...</p>
-                                                <a class="noticia-link" href="#">Leer más <span class="ion-arrow-right-c"></span></a>
+                                                <a class="noticia-link" href="contenido/noticias/noticia7.php">Leer más <span class="ion-arrow-right-c"></span></a>
                                                 
                                             </div>
                                         </div>
@@ -253,14 +255,14 @@
                                     <li class="col-md-4 col-xs-6">
                                         <div class="content-noticia">
                                             <div class="thumbnail">
-                                                <a href="#"><img src="images/noticias/8.jpg" alt=""></a>
+                                                <a href="contenido/noticias/noticia8.php"><img src="images/noticias/8.jpg" alt=""></a>
                                             </div>
                                             <div class="caption text-center">
                                                 <h4 class="noticia-title">FARC LIBERA A NIÑOS Y ADOLESCENTES</h4>
 
                                                 <p class="noticia-review">l pasado sábado 10 del presente mes, las FARC’s libero a 5 menores de su campamento. Esta liberación se realizó en el marco del Acuerdo de Paz que ha alcanzado el gobierno colombiano.
                                                 Los menos fueron entregados al Comité Internacional de la Cruz Roja  ...</p>
-                                                <a class="noticia-link" href="#">Leer más <span class="ion-arrow-right-c"></span></a>
+                                                <a class="noticia-link" href="contenido/noticias/noticia8.php">Leer más <span class="ion-arrow-right-c"></span></a>
                                                 
                                             </div>
                                         </div>
@@ -268,13 +270,13 @@
                                     <li class="col-md-4 col-xs-6">
                                         <div class="content-noticia">
                                             <div class="thumbnail">
-                                                <a href="#"><img src="images/noticias/9.jpg" alt=""></a>
+                                                <a href="contenido/noticias/noticia9.php"><img src="images/noticias/9.jpg" alt=""></a>
                                             </div>
                                             <div class="caption text-center">
                                                 <h4 class="noticia-title">Propuestas para un servicio de agua potable de calidad</h4> 
 
                                                 <p class="noticia-review">El día de ayer se reunieron el presidente del Perú y el Banco Interamericano de Desarrollo (BID), en la reunión denominada HidroPeru cuyo tema central era la presentación de propuestas sobre retos ...</p>
-                                                <a class="noticia-link" href="#">Leer más <span class="ion-arrow-right-c"></span></a>
+                                                <a class="noticia-link" href="contenido/noticias/noticia9.php">Leer más <span class="ion-arrow-right-c"></span></a>
                                                 
                                             </div>
                                         </div>

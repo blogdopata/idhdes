@@ -21,14 +21,14 @@
   <header>
     <div class="sticky">
       <div class="container-fluid">
-        <div class="logo"><a href="index.html"><img src="images/logo_idhdes.png" ></a> </div>
+        <div class="logo"><a href="index.html"><img src="http://localhost/idhdes/images/logo_idhdes.png" ></a> </div>
         
 
         <!-- Nav -->
         <nav>
           <ul id="ownmenu" class="ownmenu">
-            <li id="link1"><a href="index.php">Inicio</a></li>
-            <li id="link2"><a href="nosotros.php">Nosotros</a></li>
+            <li id="link1"><a href="http://localhost/idhdes/">Inicio</a></li>
+            <li id="link2"><a href="http://localhost/idhdes/nosotros.php">Nosotros</a></li>
             <li id="link3"><a href="#">Formación Académica</a></li>
             <li id="link4"><a href="#">Convenios</a></li>
             <li id="link5"><a href="#">Editorial</a></li>
