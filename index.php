@@ -5,7 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="author" content="Grafimedia" />
-<meta charset="UTF-8">
+<meta charset="UTF-8" />
+<meta name="description" content="Bienvenidos al IDHDES (Instituto de Derechos Humanos y Desarrollo de la USMP), a cargo de la Dra. Elizabeth Zea Marquina  - @blogdopata " />
 <!-- Document Title -->
 <title>IDHDES</title>
 

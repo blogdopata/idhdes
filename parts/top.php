@@ -31,7 +31,7 @@
             <li id="link2"><a href="http://localhost/idhdes/nosotros.php">Nosotros</a></li>
             <li id="link3"><a href="#">Formación Académica</a></li>
             <li id="link4"><a href="#">Convenios</a></li>
-            <li id="link5"><a href="#">Editorial</a></li>
+            <li id="link5"><a href="http://localhost/idhdes/editorial.php">Editorial</a></li>
             <li id="link6"><a href="#">Publicaciones</a></li>
    
           </ul>

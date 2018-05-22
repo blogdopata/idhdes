@@ -3017,7 +3017,30 @@ cursor: pointer;
 .member-hover:hover{
 	background-color: #E2E9EF;
 }
+/* ************* EDITORIAL ***************** */
 
+  ul.list-editorial{
+   /* border:1px solid red;*/
+  }
+  ul.list-editorial li{
+   /* border:1px solid green;*/
+   
+
+  }
+  ul.list-editorial li:nth-child(even){
+    background-color: #FAE7E3;
+  }
+  ul.list-editorial li a {
+    font-size: 20px;
+    display: block;
+    padding: 15px 10px;
+
+  }
+  ul.list-editorial li a:hover{
+    background-color: #87B81A;
+    color:white;
+  }
+/* ************ FIN EDITORIAL ************** */
 
 
 /* ************** UTILITARIOS ************* */ 
