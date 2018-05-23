@@ -21,7 +21,7 @@
   <header>
     <div class="sticky">
       <div class="container-fluid">
-        <div class="logo"><a href="index.html"><img src="http://localhost/idhdes/images/logo_idhdes.png" ></a> </div>
+        <div class="logo"><a href="http://localhost/idhdes/"><img src="http://localhost/idhdes/images/logo_idhdes.png" ></a> </div>
         
 
         <!-- Nav -->

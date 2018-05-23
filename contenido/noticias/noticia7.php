@@ -48,7 +48,7 @@
               <br>
   
              <p  class="txt-General" >
-        El tifón Lionrock, el décimo de la témpora en el océano Pacifico provoco grandes inundaciones en la provincia de Ryanggang y sobre todo Hamgyong del Norte, zonas fronterizas con China.</p>
+        El tifón Lionrock, el décimo de la témpora en el océano Pacifico provocó grandes inundaciones en la provincia de Ryanggang y sobre todo Hamgyong del Norte, zonas fronterizas con China.</p>
 
     <p  class="txt-General" >
 

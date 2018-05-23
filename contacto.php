@@ -43,7 +43,7 @@
           <p>
             <b>Dirección:</b>  Calle Los Pinos 250, San Isidro Lima. <br> 
             <b>Teléfono: </b>  Llamar (01) 4215366  <br> 
-
+             <b>Correo: </b> <a href="mailto:idhdes@usmp.pe">idhdes@usmp.pe </a><br>
             <b>Redes sociales: </b> <br> <a href="https://www.facebook.com/pg/idhdesusmp" target="_blank"> facebook/IDHDES</a>  <br>
             <a href="https://twitter.com/IDHDES" target="_blank">twitter/IDHDES</a>
           </p>
