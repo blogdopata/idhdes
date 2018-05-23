@@ -164,11 +164,27 @@ $(document).ready(function(){
 
 
   if(nuevo[2] == "nosotros.php") {
-    //alert("hola");
-    $("header").addClass("header-content");
-    //alert("hola");
+    /*$("header").addClass("header-content");*/ 
     $("#link2").addClass("active");
    }
+
+ 	if(nuevo[2] == "formacion-academica.php"){
+ 		$("#link3").addClass("active");
+ 		/*$("#footer").addClass("footer-stky");*/
+ 	}
+ 	if(nuevo[2] == "convenios.php"){
+ 		$("#link4").addClass("active");
+ 		/*$("#footer").addClass("footer-stky");*/
+ 	}
+ 	if(nuevo[2] == "editorial.php"){
+ 		$("#link5").addClass("active");
+ 		/*$("#footer").addClass("footer-stky");*/
+ 	}  
+ 	if(nuevo[2] == "publicaciones.php"){
+ 		$("#link6").addClass("active");
+ 		/*$("#footer").addClass("footer-stky");*/
+ 	}
+
 
   if(nuevo[2] == "") {
     
@@ -183,31 +199,36 @@ $(document).ready(function(){
   if( nuevo[2] != "index.php" && nuevo[2] != "" ) {
    
     $("header").addClass("header-content");
-   
    }
+
+
    /*  PARA NOTICIAS STICKY FOOTER */
 
    if(nuevo[4] == "noticia8.php") {
      
     $("#footer").addClass("footer-stky");
-     console.log(nuevo);
+     /*console.log(nuevo);*/
   } 
    if(nuevo[4] == "noticia3.php") {
      
     $("#footer").addClass("footer-stky");
-     console.log(nuevo);
+     /*console.log(nuevo);*/
   } 
   	/*  FIN  NOTICIAS STICKY FOOTER */
-   
  
-
-
+ 
 });  
 
 /* ******************  FIN SCRIPTS DEL LINK ******************** */  
 
+/* ***************** Publicaciones TABS ******************** */ 
 
-
+$(document).ready(function(){
+    $(".nav-tabs a").click(function(){
+        $(this).tab('show');
+    });
+});
+/* *****************  FIN Publicaciones TABS ******************** */ 
 
 
 

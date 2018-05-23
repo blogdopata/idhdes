@@ -3018,9 +3018,22 @@ cursor: pointer;
 	background-color: #E2E9EF;
 }
 /* ************* EDITORIAL ***************** */
+	
+	.topPart{
+		background-color: #E0E0E0;
+		margin-top: 141px;
+	}
+	.topPart .row{
+		margin-bottom: 40px;
+	}
+	figure.col-xs-12{
+		margin:0;
+		padding: 0;
+	}
 
   ul.list-editorial{
    /* border:1px solid red;*/
+   margin-top: 20px;
   }
   ul.list-editorial li{
    /* border:1px solid green;*/
@@ -3028,7 +3041,8 @@ cursor: pointer;
 
   }
   ul.list-editorial li:nth-child(even){
-    background-color: #FAE7E3;
+    background-color: #E0E0E0
+
   }
   ul.list-editorial li a {
     font-size: 20px;
@@ -3042,7 +3056,36 @@ cursor: pointer;
   }
 /* ************ FIN EDITORIAL ************** */
 
+/* ************ PUBLICACIOONES ************* */ 
+.chaos .active{
+  /*background-color: green;*/
+   border:1px solid #829845;
+  }
 
+.chaos>li.active>a,
+.chaos>li.active>a:focus,
+.chaos>li.active>a:hover {
+    border: 0px solid green;
+    color: #829845;
+}
+.titleH4{
+	color: #144A79;
+	margin: 30px 0 20px 0;
+
+}
+.list-instrumentos{
+	margin-left: 10px;
+
+}
+.list-instrumentos li{
+	margin:  10px 15px;
+}
+.list-instrumentos li a{
+	font-size: 16px;
+}
+
+
+/* ************ FIN  PUBLICACIOONES ************* */ 
 /* ************** UTILITARIOS ************* */ 
 
 .pad-bot-30{
@@ -3062,10 +3105,23 @@ cursor: pointer;
 	margin-top: 0px;
 	display: inline-block;
 }
+
+.noticia-link {
+
+}
+.noticia-link:hover {
+	background-color: #77933C;
+	color : white;
+}
+
+
 .footer-stky {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
+}
+.marginT40{
+ margin:40px 0;
 
 }

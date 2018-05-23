@@ -142,7 +142,9 @@
         <div id="portfolio">
 
           <div class="tile scale-anm web all advertising">
+            
               <img src="https://lh3.googleusercontent.com/-ndZJOGgvYQ4/WM1ZI8dH86I/AAAAAAAADeo/l67ZqZnRUO8QXIQi38bEXuxqHfVX0TV2gCJoC/w424-h318-n-rw/thumbnail8.jpg" alt="" />
+
           </div>
 
           <div class="tile scale-anm bcards all">

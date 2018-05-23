@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="author" content="Grafimedia" />
-<meta name="description" content="Editorial IDHDES, se muetran las últimas editorilaes de Instituto de Derechos Humanos y Desarrollo de la USMP " >
+<meta name="description" content="Editorial IDHDES, se muetran las últimas editoriales de Instituto de Derechos Humanos y Desarrollo de la USMP " >
 <meta charset="UTF-8">
 <!-- Document Title -->
 <title>IDHDES</title>
@@ -15,10 +15,7 @@
 
 </head>
 <body>
-<div>
-    
 
-</div>
 
 
 
@@ -28,9 +25,9 @@
   <!-- End Header --> 
    
  
-    <section class="" style="background-color: #E0E0E0;margin-top: 141px;" >
+    <section class="topPart">
       <div class="container">
-        <div class="row" style="margin-bottom: 40px;"> 
+        <div class="row" > 
           <div class="col-md-12 text-center"> 
            <h2 class="title-contenido"> 
               EDITORIAL
@@ -45,7 +42,7 @@
   <section>
      <div class="container-fluid">
         <div class="row">
-          <figure class="col-xs-12" style="margin:0;padding: 0;">
+          <figure class="col-xs-12">
             <img src="images/banners/editorialPic.png" class="img-responsive" alt="">
 
           </figure>
@@ -82,11 +79,17 @@
 
             <li><a href="contenido/editorial/editorial9.php">CHARLIE HEBDO  Libertad de Expresión vs Religión <span class="ion-arrow-right-c"></span></a></li>
 
-            <li><a href="contenido/editorial/editorial10.php">“SOLO ROSAS, NO ESPINAS”  <br>
-DÍA DE LA NO VIOLENCIA CONTRA LA MUJER <span class="ion-arrow-right-c"></span></li></li>
+            <li>
+              <a href="contenido/editorial/editorial10.php">“SOLO ROSAS, NO ESPINAS”  <br>
+              DÍA DE LA NO VIOLENCIA CONTRA LA MUJER <span class="ion-arrow-right-c"></span>
+               </a>
+            </li>
             
-            <li><a href="contenido/editorial/editorial11.php">ÁNGELES PRISIONEROS <br>
-Día Internacional contra la Explotación Sexual y la Trata de Personas <span class="ion-arrow-right-c"></span></li></li>
+            <li>
+              <a href="contenido/editorial/editorial11.php">ÁNGELES PRISIONEROS <br>
+              Día Internacional contra la Explotación Sexual y la Trata de Personas <span class="ion-arrow-right-c"></span>
+                            </a>
+            </li>
 
           </ul>
             
@@ -110,12 +113,7 @@ Día Internacional contra la Explotación Sexual y la Trata de Personas <span cl
 
    
   
-    <footer class="footer">
-        <p>Teléfono - 01-421-5366 , Direccion - Calle Los Pinos #250, San Isidro <br>
-            Copyright © 2016 Área de Diseño Gráﬁco y Multimedia - FIA USMP <br>
-            Todos los derechos reservados
-        </p> 
-  </footer>
+  <?php include("parts/footer.php") ?>
   <!-- End Footer --> 
   
   <!-- GO TO TOP  --> 
