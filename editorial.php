@@ -58,36 +58,44 @@
             <br>
 
           <ul class="list-editorial">
-            <li>
-              <a href="contenido/editorial/editorial1.php">
-                ¡Nuestros derechos siempre! <span class="ion-arrow-right-c"></span>
+             <li>
+              <a href="contenido/editorial/editorial12.php"> <span class="ion-android-bookmark"></span> 
+                Corrupción: Como siempre y como nunca 
               </a>
             </li>
-            <li><a href="contenido/editorial/editorial2.php">“Elijo no poner “dis” en mi capacidad” <span class="ion-arrow-right-c"></span></a></li>
-
-            <li><a href="contenido/editorial/editorial3.php">Un breve pasaje por la perspectiva de los pueblos indígenas <span class="ion-arrow-right-c"></span></a></li>
-
-            <li><a href="contenido/editorial/editorial4.php">DÍA MUNDIAL DE LOS DOCENTES <span class="ion-arrow-right-c"></span></a></li>
-
-            <li><a href="contenido/editorial/editorial5.php">Entrevista del IDHDES <span class="ion-arrow-right-c"></span></a></li>
-
-            <li><a href="contenido/editorial/editorial6.php">DÍA INTERNACIONAL DE TOLERANCIA CERO CON LA MUTILACIÓN GENITAL FEMENINA <span class="ion-arrow-right-c"></span></a></li>
-
-            <li><a href="contenido/editorial/editorial7.php">REFLEXIONES: RECORDANDO A PIERINA: ¡NO AL MALTRATO INFANTIL! <span class="ion-arrow-right-c"></span></a></li>
-
-            <li><a href="contenido/editorial/editorial8.php">REFLEXIONES EN TORNO AL EJERCICIO DE LA LIBERTAD DE EXPRESIÓN EN LA FUNCIÓN PÚBLICA Y REDES SOCIALES <span class="ion-arrow-right-c"></span></a></li>
-
-            <li><a href="contenido/editorial/editorial9.php">CHARLIE HEBDO  Libertad de Expresión vs Religión <span class="ion-arrow-right-c"></span></a></li>
 
             <li>
-              <a href="contenido/editorial/editorial10.php">“SOLO ROSAS, NO ESPINAS”  <br>
-              DÍA DE LA NO VIOLENCIA CONTRA LA MUJER <span class="ion-arrow-right-c"></span>
+              <a href="contenido/editorial/editorial1.php"> <span class="ion-android-bookmark"></span> 
+                ¡Nuestros derechos siempre! 
+              </a>
+            </li>
+            <li><a href="contenido/editorial/editorial2.php"> <span class="ion-android-bookmark"></span> “Elijo no poner “dis” en mi capacidad” </a></li>
+
+            <li><a href="contenido/editorial/editorial3.php"> <span class="ion-android-bookmark"></span> Un breve pasaje por la perspectiva de los pueblos indígenas </a></li>
+
+            <li><a href="contenido/editorial/editorial4.php"> <span class="ion-android-bookmark"></span> Día Internacional de los Docentes </a></li>
+
+            <li><a href="contenido/editorial/editorial5.php"> <span class="ion-android-bookmark"></span> Entrevista del IDHDES </a></li>
+
+            <li><a href="contenido/editorial/editorial6.php"> <span class="ion-android-bookmark"></span> 
+            Día internacional de tolerancia cero con la mutilación genital femenina
+            </a></li>
+
+            <li><a href="contenido/editorial/editorial7.php"> <span class="ion-android-bookmark"></span>  Reflexiones: recordando a pierina: ¡No al maltrato infantil! </a></li>
+
+            <li><a href="contenido/editorial/editorial8.php"> <span class="ion-android-bookmark"></span> Reflexiones en torno al ejercicio de la libertad de expresión en la función pública y redes sociales </a></li>
+
+            <li><a href="contenido/editorial/editorial9.php"> <span class="ion-android-bookmark"></span> CHARLIE HEBDO  Libertad de Expresión vs Religión </a></li>
+
+            <li>
+              <a href="contenido/editorial/editorial10.php"> <span class="ion-android-bookmark"></span> “Solo rosas, no espinas”  <br>
+              Día de la no violencia contra la mujer 
                </a>
             </li>
             
             <li>
-              <a href="contenido/editorial/editorial11.php">ÁNGELES PRISIONEROS <br>
-              Día Internacional contra la Explotación Sexual y la Trata de Personas <span class="ion-arrow-right-c"></span>
+              <a href="contenido/editorial/editorial11.php"> <span class="ion-android-bookmark"></span> ÁNGELES PRISIONEROS <br>
+              Día Internacional contra la Explotación Sexual y la Trata de Personas 
                             </a>
             </li>
 

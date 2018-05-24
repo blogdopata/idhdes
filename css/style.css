@@ -3054,6 +3054,23 @@ cursor: pointer;
     background-color: #87B81A;
     color:white;
   }
+  hr.hr-editorial{
+  	
+  	border:1px solid green;
+
+		background-color: #819843;
+		padding:0;
+		width:80%;
+		margin:20px 0 0 0;
+	
+  }
+  .editorial-ref{
+  	font-size:12px;
+  	line-height: 14px;
+  /*	border:1px solid red;*/
+  	display: block;
+  	margin-top: 0;
+  }
 /* ************ FIN EDITORIAL ************** */
 
 /* ************ PUBLICACIOONES ************* */ 
@@ -3086,6 +3103,42 @@ cursor: pointer;
 
 
 /* ************ FIN  PUBLICACIOONES ************* */ 
+
+
+
+/* ************ FORMACION ACADEMICA ********** */
+
+.info-event{
+
+background-color:#194679;
+color:white;
+
+}
+.btn-ins{
+	background-color: #819843;
+	color:white;
+	border-radius:15px;
+	padding:10px 15px;
+	border: 0px solid white;
+	margin-left: 20px;
+}
+.btn-ins:hover{
+	background-color:#7C2C40;
+}
+.list-expo{
+	margin:20px 10px;
+}
+.list-expo li {
+	margin: 10px 0; 
+}
+.more-info{
+	display: block;
+	text-align: center;
+
+}
+
+
+/* ************ FIN  FORMACION ACADEMICA ********** */
 /* ************** UTILITARIOS ************* */ 
 
 .pad-bot-30{
@@ -3123,5 +3176,15 @@ cursor: pointer;
 }
 .marginT40{
  margin:40px 0;
+
+}
+
+.titleH5{
+	color: #7c2c40;
+	border-bottom: 2px solid #7c2c40;
+	width:160px;
+}
+.ion-android-checkbox{
+	color: green;
 
 }

@@ -41,6 +41,7 @@
       <div class="col-md-10 col-md-offset-1">
             <ul class="nav nav-tabs chaos text-center" style="padding-left: 15%;">
                 <li class="active"><a href="#home">Articulos</a></li>
+                 <li><a href="#menu5" class="menu5">Informes</a></li>
                 <li><a href= "#menu1">Boletin</a></li>
                 <li><a href="#menu2">Dias Internacionales</a></li>
                 <li><a href="#menu3">Instrumentos Internacionales</a></li>
@@ -221,6 +222,20 @@
                       </figure>
                 </div>
 
+                 <div id="menu5" class="tab-pane fade">
+                      <ul class="list-editorial" id="short">
+                        <li>
+                          <a href="pdf/informes/Por-una-Cultura-de-Prevencion-en-el-Sistema-Educativo.pdf" target="_blank">
+                           <span class="ion-android-list"></span> 
+                           Por una Cultura de Prevencion en el Sistema Educativo <span class="ion-arrow-right-c"></span>
+                         <img src="images/img_pdf.png" alt=""> 
+    
+                          </a>
+                        </li>
+
+
+                </div>
+
 
             </div>
             <br> <br>
@@ -238,7 +253,18 @@
 
   <?php include("parts/src-js.php") ?>
 
+  <script>
+ /* Borrar scrpit cuando el contenido sea mayor a 400px d alto */
 
+      $(document).ready(function(){
+        
+        $(".menu5").click(function(){
+          
+         document.getElementById("short").style.height = "400px";
+        });
+
+      });
+  </script>
 
 </div>
 </body>

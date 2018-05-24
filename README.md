@@ -11,3 +11,4 @@ Instituto de Derechos Humanos y Desarrollo (IDHDES)
 3. src-js.php
 4. besocial
 5. noticia.php
+6. Modificar el .htaccess  ErrorDocument 404 /prueba_idhdes/error.php

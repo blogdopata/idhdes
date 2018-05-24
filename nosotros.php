@@ -330,10 +330,7 @@
               La USMP presenta al Instituto de Derechos Humanos y Desarrollo dedicado al servicio de nuestro país.
               </p>
               <br>
-              <p class="text-center"> 
-                <b>Dra. María Soledad Pérez Tello  <br>
-                Presidenta del Comité Consultivo</b>
-              </p>
+              
 
           </div>
         </div>

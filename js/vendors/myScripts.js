@@ -221,6 +221,7 @@ $(document).ready(function(){
 
 /* ******************  FIN SCRIPTS DEL LINK ******************** */  
 
+
 /* ***************** Publicaciones TABS ******************** */ 
 
 $(document).ready(function(){
@@ -228,7 +229,29 @@ $(document).ready(function(){
         $(this).tab('show');
     });
 });
+
 /* *****************  FIN Publicaciones TABS ******************** */ 
+
+ 
+/* **************   PARA FORMACION ACADEMICA ******************** */
+$(document).ready(function(){
+
+	$("#more-info").click(function(event){
+		event.preventDefault();
+			$("#showInfo").toggle("slow");
+	});
+
+	$("#more-info2").click(function(event){
+		event.preventDefault();
+			$("#showInfo2").toggle("slow");
+	});
+})
+
+
+/* *************--*   FINFORMACION ACADEMICA ******************** */
+
+
+
 
 
 
