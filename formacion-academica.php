@@ -139,9 +139,9 @@
                         
 
                         <h5 class="titleH5">Afiche</h5>
-                        
+                        <figure class="text-center">
                         <img class="img-responsive" src="images/eventos/afiche_redes.jpg" alt="">
-                          
+                         </figure> 
 
                         
                         
@@ -155,29 +155,30 @@
                 </div>
 
 
-                <!--------------  -CONVERSATORISO -------------> 
+                <!--------------  -Conferencias -------------> 
                 <div id="menu0" class="tab-pane fade">
-                  <p class="txt-General">Se realizacion las siguientes conferencias:</p>
-                      <ul>
+                   <p class="txt-info"><span class="ion-android-clipboard"></span>  Se realizarón las siguientes conferencias:</p>
+                     
                         <ul class="list-expo" id="short">
                         
                             <li><span class="ion-android-checkbox"></span>
-                              PRESENTACIÓN DEL PLAN 32: REFORMA ELECTORAL
+                             Presentación del Plan 32: Reforma Electoral
                             </li>
                             <li><span class="ion-android-checkbox"></span>
-                              FORO: LA MUJER EN LA POLÍTICA: ENFOQUES Y RETOS
+                             Foro -  La Mujer en la Política: Enfoques yRetos
+
                             </li>
                             <li><span class="ion-android-checkbox"></span>
-                            “SEGURIDAD CIUDADANA: POLÍTICAS PÚBLICAS Y NUEVAS TECNOLOGÍAS”
+                            “Seguridad Ciudadana: Políticas Públicas y Nuevas Tecnologías”
                             </li>
                             <li><span class="ion-android-checkbox"></span>
-                              LA TRATA DE PERSONAS EN EL CONTEXTO DE LAS MIGRACIONES: UNA VISIÓN ACTUAL DESDE LA SOCIOLOGÍA Y EL DERECHO
+                              La Trata de Personas en el Contexto de las Migraciones: una Visión actual desde la Sociología y el Derecho
                             </li>
 
                       </ul>
 
                 </div>
-                 <!--------------   FIN -CONVERSATORISO -------------> 
+                 <!--------------   FIN -CONFerencias -------------> 
 
               <!-- ------  CONVERSATORIOS ------------- -->
 
@@ -320,16 +321,16 @@
                     </div>
 
 
-
+                <hr class="hr-editorial">
                  <h4 class="titleH4"> Conversatorio: Prensa y Libertad de Expresión</h4>
 
                     <div class="table-responsive">
                         <table class="table" id="tabla-diplomado">
-                          <tr  >
+                          <tr>
                             <td class="info-event">Inicio:</td>
                             <td>Jueves 26 de mayo 2016</td>
                           </tr>
-                           <tr  >
+                           <tr>
                             <td class="info-event">Metodología:</td>
                             <td>  Presencial mediante exposición y posterior conversatorio  <br>(promover la participación activa de los participantes).</td>
                           </tr>
@@ -411,10 +412,11 @@
                 </div>
 
               <!-- FIN  CONVERSATORIOS -+ -->
+
               <!-- CURSOS --->
                 <div id="menu2" class="tab-pane fade">
                       
-                      <h4 class="titleH4"> Curso semipresencial de Alta Especialización de Libertad de Expresión y su Ejercicio Responsable</h4>
+                      <h4 class="titleH4"> Curso Semipresencial de Alta Especialización de Libertad de Expresión y su Ejercicio Responsable</h4>
 
                     <div class="table-responsive">
                         <table class="table" id="tabla-diplomado">
@@ -454,9 +456,122 @@
                           
                         </table>
                     </div>
+                  
+                 <h5 class="titleH5">Información</h5>  
+                      <p class="txt-General">
+                        <b>Objetivo:</b> <br>
+                      </p> 
+                      <p class="txt-General">
+                        
+                        Las personas que participen en el Curso-Taller desarrollarán una serie competencias que les permitirán:
+                      </p>
+                      <ul class="list-expo">
+                          <li><span class="ion-android-done-all"></span> Identificar los principales problemas que se vinculan con la libertad de expresión en las sociedades contemporáneas.</li>
+
+
+                          <li><span class="ion-android-done-all"></span> Evidenciar las respuestas que, desde distintas perspectivas y culturas, se han brindado a los problemas vinculados con la libertad de expresión</li>
+
+
+                          <li><span class="ion-android-done-all"></span> Conocer las principales tendencias sobre el derecho a la libertad de expresión en los estándares de los tribunales internacionales sobre derechos humanos y tribunales constitucionales.</li>
+
+
+                          <li><span class="ion-android-done-all"></span> Aplicar los estándares a situaciones particulares (casos hipotéticos), a fin de poner en práctica los conocimientos adquiridos.</li>
+
+
+                          <li><span class="ion-android-done-all"></span> Fomentar una cultura de respeto y promoción del derecho a la libertad de expresión, por su indesligable conexión con el principio democrático.</li>
+                     </ul>
+                  <h5 class="titleH5">Temario</h5>  
+                  <ul class="list-expo">
+                      <li><span class="ion-document-text"></span> Libertad de expresión y democracia.</li>
+
+                      <li><span class="ion-document-text"></span> El marco jurídico internacional de la libertad de expresión. </li>
+
+                      <li><span class="ion-document-text"></span> ¿Supuestos de procedencia de censura previa?</li>
+
+                      <li><span class="ion-document-text"></span> Restricciones indirectas de la libertad de expresión</li>
+
+                      <li><span class="ion-document-text"></span> Las responsabilidades ulteriores frente al uso arbitrario de la expresión.</li>
+
+                      <li><span class="ion-document-text"></span> Reparaciones frente a violaciones al derecho a la libertad de expresión</li>
+
+                      <li><span class="ion-document-text"></span> Libertad de expresión y la especial protección a la prensa: el rol del publicwatchdog y la doctrina de la mala fe.</li>
+
+                      <li><span class="ion-document-text"></span> Independencia y pluralismo de los medios de comunicación.</li>
+
+                      <li><span class="ion-document-text"></span> Libertad de expresión y participación política</li>
+
+                      <li><span class="ion-document-text"></span> La libertad de expresión en el mundo digital.</li>
+
+                      <li><span class="ion-document-text"></span> Material "obsceno" y libertad de expresión.</li>
+
+                      <li><span class="ion-document-text"></span> Discursos de odio y protección de minorías.</li>
+
+                      <li><span class="ion-document-text"></span> Negacionismo y libertad de expresión.</li>
+
+                      <li><span class="ion-document-text"></span> Libertad de expresión de autoridades: el caso de los jueces, policías y militares.</li>
+
+                      <li><span class="ion-document-text"></span> La criminalización de la libertad de expresión.</li>
+
+                      <li><span class="ion-document-text"></span> El rol de la UNESCO en la promoción de la libertad de expresión como un derecho humano fundamental.</li>
+
+                      <li><span class="ion-document-text"></span> El rol de la UNESCO en la promoción de la libertad de expresión como un derecho humano fundamental.</li>
+                  </ul>                  
+
+                  <h5 class="titleH5">Precios</h5>  
+                      <p class="txt-General">
+                      <b>Público en general:</b>  s/.500<br> 
+                      <b>Profesores, egresados y estudiantes de la USMP:</b>   s/.400 <br>
+                      <b>Corporativo (3 a más personas) :</b> s/.350 <br>
+                      <b>Número de Cuenta:</b> Aún no habilitado.
+                      </p>
+
+                  <h5 class="titleH5">Expositores</h5>  
+                       <ul class="list-expo">
+                        
+                            <li><span class="ion-person"></span> Andrea Harman Coordinadora en Comunicaciones e Información Pública de la UNESCO.</li>
+
+                            <li><span class="ion-person"></span> Betsabé Marciana Burgo Profesora asociada de la PUCP. Con maestría en Derecho Constitucional por la USMP, y Doctorada en Derecho por la Universidad de Castilla-La Mancha. </li>
+
+                            <li><span class="ion-person"></span>  Oscar Andrés Pazo Pineda Coordinador del Área de Formación Académica del IDHDES-USMP. Asesor Jurisdiccional en el Tribunal Constitucional. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law.</li>
+
+                            <li><span class="ion-person"></span> Claudio Renato Abel Sotelo Torres Abogado por la USMP. Con estudios culminados en el Master de Derechos Fundamentales de la Universidad Carlos III de Madrid. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law. Ha desarrollado una estancia académica en la Corte Interamericana de Derechos Humanos.</li>
+
+                            <li><span class="ion-person"></span> Benji Gregory Espinoza Ramos Abogado y docente de la USMP. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law. Ha desarrollado una estancia académica en la Corte Interamericana de Derechos Humanos.</li>
+
+                            <li><span class="ion-person"></span> Juan Carlos Portugal Sánchez. Abogado y docente de la USMP. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law.</li>
+   
+
+                         </ul> 
+                   <h5 class="titleH5">Requisitos </h5>  
+                      <p class="txt-General">
+                        1. Llenar la ficha electrónica de inscripción.
+                              <br>
+                        2. Remitir un correo electrónico a idhdes@usmp.pe , con la copia escaneada simple del DNI y carné universitario si corresponde.      
+                      </p>
+                    <h5 class="titleH5">Certificación </h5>  
+                      <p class="txt-General">
+                       A los participantes asistentes del Curso de Alta Especialización sobre libertad de expresión y democracia en las sociedades contemporáneas.      
+                      </p>  
+                  
+                  <hr class="hr-editorial">
+                      <p class="txt-info"><span class="ion-android-clipboard"></span>  Tambien se realizarón los siguientes Cursos:</p>
+                    
+                        <ul class="list-expo" id="short2">
+                        
+                            <li><span class="ion-android-checkbox"></span>
+                             Curso de Especialización en Ecoeficiencia y Sostenibilidad
+                            </li>
+                            <li><span class="ion-android-checkbox"></span>
+                              Curso en gestión socioambiental y desarrollo sostenible (agosto a octubre 2015)
+
+                            </li>
+
+
 
                 </div>
 
+
+        <!-- ------------------------ DIPLOMADOS --------------------------- -->
                 <div id="menu3" class="tab-pane fade">
 
                    <figure class="text-center marginT40">
@@ -465,10 +580,104 @@
                       </figure>
 
                 </div>
-                
+        <!-- -------------------------- FIN DIPLOMADOS ------------------------ -->         
+               
+
                 <!-- TALLERES -->
                  <div id="menu4" class="tab-pane fade">
-                      <p class="txt-General">Se realizacion las siguientes conferencias:</p>
+
+                  <h4 class="titleH4"> Taller sobre mecanismos de protección internos e internacionales de los derechos fundamentales</h4>
+
+                    <div class="table-responsive">
+                        <table class="table" id="tabla-diplomado">
+                           <tr  >
+                            <td class="info-event">Inicio:</td>
+                            <td>Viernes 5, 12, 19 y 26 de agosto de 2016</td>
+                          </tr>
+                           <tr  >
+                            <td class="info-event">Duración:</td>
+                            <td> 4 sesiones</td>
+                          </tr>
+                         
+                          <tr  >
+                            <td class="info-event">Metodología:</td>
+                            <td>Presencial mediante exposiciones magistrales, talleres de grupo, estudios de casos y ejercicios analíticos. </td>
+                          </tr>
+
+                          <tr>
+                            <td class="info-event">Lugar:</td>
+                            <td> Facultad de Derecho – USMP (Av. Alameda del Corregidor 1864 Urb. La Ensenada – La Molina) * Por confirmar.</td>
+                          </tr>  
+                         
+                          <tr>
+                            <td class="info-event" >Hora:</td>
+                            <td>6:30 pm - 9:30 pm</td>
+                          </tr>
+                         
+                        
+                          <tr>
+                            <td class="info-event">Inscripciones:</td>
+                            <td>idhdes@usmp.pe 
+                              <a href="#"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                          </tr>
+                          
+                          <tr>
+                            <td class="info-event">Dirigido:</td>
+                            <td>El taller estará dirigido al público en general..
+                              </td>
+                          </tr>
+                          
+                        </table>
+                    </div>
+
+                     <h5 class="titleH5">Objetivos</h5>  
+                      <p class="txt-General">
+                       - Brindar los conocimientos indispensables relacionados con los mecanismos de tutela de los derechos fundamentales, tanto a nivel nacional como internacional.
+                      </p> 
+                      <p class="txt-General">
+                        - Resaltar la importancia y la necesidad de contar con mecanismos de tutela de derechos.
+                      </p>
+
+                       <h5 class="titleH5">Requisitos</h5>  
+                       
+                      <p class="txt-General">
+                       1. Llenar la ficha electrónica de inscripción
+                      </p>
+
+                      <h5 class="titleH5">Certificación</h5>  
+                       
+                      <p class="txt-General">
+                       A los participantes asistentes del Taller se les brindará un certificado de participación en el taller.
+                      </p>
+
+                      <h5 class="titleH5">Expositores </h5>  
+                       
+                    
+                       <ul class="list-expo">
+                        
+                            <li><span class="ion-person"></span> Oscar Andrés Pazo Pineda</li>
+
+                            <li><span class="ion-person"></span> Benji Gregory Espinoza Ramos </li>
+                            <li><span class="ion-person"></span>  Luis Fernando Domínguez Vera </li>
+
+                       </ul>     
+                   
+                      <h5 class="titleH5">Precios </h5> 
+                      
+                      <p class="txt-General">
+                      <b>Participantes:</b> Costo por persona<br> 
+                      <b>Público en general:</b>  s/.100.00 (cien 00/100 nuevos soles) <br>
+                      <b>Estudiante Universitario:</b> s/.60.00 (sesenta 00/100 nuevos soles) <br>
+                      <b>Número de Cuenta:</b> N° de Cta.Cte del Scotianbank: 000-50-5543
+                      </p>
+
+                      <h5 class="titleH5">Afiche</h5>
+                        <figure class="text-center">
+                        <img class="img-responsive" src="images/eventos/mecanismos.jpg" alt="">
+                        </figure>
+                   
+                      <hr class="hr-editorial">
+                      <p class="txt-info"><span class="ion-android-clipboard"></span>  Tambien se realizarón los siguientes Talleres:</p>
                     
                         <ul class="list-expo" id="short2">
                         
@@ -478,11 +687,10 @@
                             <li><span class="ion-android-checkbox"></span>
                               Los Derechos Humanos en el Nuevo Proceso Penal
                             </li>
-                            <li><span class="ion-android-checkbox"></span>
-                            Taller sobre Mecanismos de Protección Internos e Internacionales de los Derechos Fundamentales
+                            
                             </li>
                             <li><span class="ion-android-checkbox"></span>
-                              "Taller de Formación en Derechos Humanos" Género y Políticas Públicas
+                              Taller de Formación en Derechos Humanos" Género y Políticas Públicas
                             </li>
                             
                              <li><span class="ion-android-checkbox"></span>
@@ -496,8 +704,12 @@
 
                       </ul>
                 </div>
+
+
               <!-- FIN TALLERES -->
-                  <div id="menu4" class="tab-pane fade">
+
+              <!-- MAESTRIAS ---> 
+                  <div id="menu5" class="tab-pane fade">
                       <figure class="text-center marginT40">
                         
                         <img class="img-responsive" src="images/picsDefault/pronto.png" alt="">

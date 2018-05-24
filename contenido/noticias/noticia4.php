@@ -108,7 +108,7 @@
 <!-- JavaScripts --> 
 
 
-<?php include("../../parts/src-js.php") ?>
+<?php require_once("../../parts/src-js.php") ?>
 
 </body>
 

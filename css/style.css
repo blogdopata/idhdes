@@ -3045,7 +3045,7 @@ cursor: pointer;
 
   }
   ul.list-editorial li a {
-    font-size: 20px;
+    font-size: 16px;
     display: block;
     padding: 15px 10px;
 
@@ -3159,6 +3159,13 @@ color:white;
 	display: inline-block;
 }
 
+.txt-info{
+		/*border: 1px solid red;*/
+		margin: 20px 0 0 0;
+		font-weight: bold;
+
+
+}
 .noticia-link {
 
 }

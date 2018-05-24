@@ -43,7 +43,7 @@
 
                    <figure class="text-center marginT40">
                         
-                        <img class="img-responsive" src="images/picsDefault/error.png" alt="">
+                        <img class="img-responsive" src="http://usmp.edu.pe/prueba_idhdes/images/picsDefault/error.png" alt="Error 404 IDHDES">
                       </figure>
 
             

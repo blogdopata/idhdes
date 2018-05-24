@@ -42,15 +42,18 @@
             <ul class="nav nav-tabs chaos text-center" style="padding-left: 15%;">
                 <li class="active"><a href="#home">Articulos</a></li>
                  <li><a href="#menu5" class="menu5">Informes</a></li>
-                <li><a href= "#menu1">Boletin</a></li>
-                <li><a href="#menu2">Dias Internacionales</a></li>
+                <li><a href= "#menu1" class="menu1">Boletin</a></li>
+                <!--<li><a href="#menu2">Dias Internacionales</a></li>-->
                 <li><a href="#menu3">Instrumentos Internacionales</a></li>
-                <li><a href="#menu4">Cuadros de Investigación</a></li>
+                <li><a href="#menu4">Cuadernos de Investigación</a></li>
             </ul>
 
             <div class="tab-content">
                 <div id="home" class="tab-pane fade in active">
+
+                  <!-- ARTICULOS -->
                     <ul class="list-editorial">
+
                         <li>
                           <a href="pdf/articulos/DiA-INTERNACIONAL-DE-LA-MUJER.pdf" target="_blank">
                             Día Internacional de la Mujer <span class="ion-arrow-right-c"></span>
@@ -99,16 +102,34 @@
 
                         
                     </ul>    
-                </div>
-
+                </div>                <!-- Fin articulos -->
+        
                 <div id="menu1" class="tab-pane fade">
                  
-                      <figure class="text-center marginT40">
-                        
-                        <img class="img-responsive" src="images/picsDefault/pronto.png" alt="">
-                      </figure>
+                     <ul class="list-editorial" id="short2" >
+                        <li>
+                          <a href="pdf/boletin/boletin_No_1_Julio-II.pdf" target="_blank">
+                          Julio – 2014 / Boletín Número 1 <span class="ion-arrow-right-c"></span>
+                         <img src="images/img_pdf.png" alt=""> 
 
+                          </a>
+                        </li>
 
+                        <li>
+                          <a target="_blank" href="pdf/boletin/boletin_No_2Aborto_y_Derechos_Humanos.pdf">La Septiembre 2014 / Boletín Número 2 – ABORTO Y DERECHOS HUMANOS
+                           <span class="ion-arrow-right-c"></span>
+                            <img src="images/img_pdf.png" alt=""> 
+
+                          </a>
+                        </li>
+                         <li>
+                          <a target="_blank" href="pdf/boletin/boletin_No3_Medio_Ambiente.pdf">Noviembre 2014 / Boletín Número 3 – MEDIO AMBIENTE
+                           <span class="ion-arrow-right-c"></span>
+                            <img src="images/img_pdf.png" alt=""> 
+
+                          </a>
+                        </li>
+                      </ul>  
 
                 </div>
 
@@ -216,12 +237,41 @@
 
                 </div>
                  <div id="menu4" class="tab-pane fade">
-                      <figure class="text-center marginT40">
-                        
-                        <img class="img-responsive" src="images/picsDefault/pronto.png" alt="">
-                      </figure>
-                </div>
+                 
+                  <h4 class="titleH4" class="titleH4 "> Año 2014</h4>
+                   <ul  class="list-editorial">
+                      <li>
+                        <a target="_blank" href="pdf/cuadernos/Las_Medidas_Afirmativas.pdf">Las Medidas Afirmativas y los Ajustes Razonables en los Derechos de las Personas con Discapacidad – CI No. 1. Julio  <span class="ion-arrow-right-c"></span>
+                         <img src="images/img_pdf.png" alt=""> </a>
+                      </li>
+                         
+                      <li>
+                         <a target="_blank" href="pdf/cuadernos/Mecainismos_Procesales.pdf">Mecanismos procesales para la Tutela del Derecho Humano al Medio Ambiente – CI No. 2, Nov 2014  <span class="ion-arrow-right-c"></span>
+                         <img src="images/img_pdf.png" alt=""> </a></li>
+                    </ul>
 
+                    <h4 class="titleH4" class="titleH4 "> Año 2015</h4>
+
+                   <ul  class="list-editorial">
+                      <li>
+                        <a target="_blank" href="pdf/cuadernos/Titulación_de_Tierras_y_Consulta_Previa.pdf">Titulación de Tierras y Consulta Previa – CI No. 1, Sept 2015   <span class="ion-arrow-right-c"></span>
+                         <img src="images/img_pdf.png" alt="">  </a>
+                      </li>
+                         
+                      <li>
+                         <a target="_blank" href="pdf/cuadernos/Sátira_Religiosa_y_Libertad_de_Expresión.pdf">Sátira Religiosa y Libertad de Expresión – CI No. 2, Nov 2015   <span class="ion-arrow-right-c"></span>
+                         <img src="images/img_pdf.png" alt=""> </a></li>
+                      <li>
+                         <a target="_blank" href="pdf/cuadernos/Concentración_de_Medios.pdf"> Concentración de Medios – CI No. 3, Nov 2015  <span class="ion-arrow-right-c"></span>
+                         <img src="images/img_pdf.png" alt="">  </a></li>
+                    </ul> 
+
+                    
+
+
+
+                </div>
+                <!-- INFORMES -->
                  <div id="menu5" class="tab-pane fade">
                       <ul class="list-editorial" id="short">
                         <li>
@@ -235,6 +285,8 @@
 
 
                 </div>
+
+                <!-- Fin INformes -->
 
 
             </div>
@@ -260,7 +312,11 @@
         
         $(".menu5").click(function(){
           
-         document.getElementById("short").style.height = "400px";
+         document.getElementById("short").style.height = "300px";
+        });
+        $(".menu1").click(function(){
+          
+         document.getElementById("short2").style.height = "300px";
         });
 
       });
