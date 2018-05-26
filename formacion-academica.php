@@ -38,7 +38,7 @@
 <div class="container-fluid">
    <br> <br> <br>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1">
+      <div class="col-md-12">
             <ul class="nav nav-tabs chaos text-center" style="padding-left: 15%;">
                 <li class="active"><a href= "#home">Aniversario 2015</a></li>
                 <li ><a href="#menu0" class="menu0">Conferencias</a></li>
@@ -46,9 +46,12 @@
                 <li><a href="#menu2">Cursos</a></li>
                 <li><a href="#menu3">Diplomados</a></li>
                 <li><a href="#menu4" class="menu4">Talleres</a></li>
-                <li><a href="#menu5">Maestrías</a></li>
-            </ul>
+                <li><a href="#menu5">Maestríass</a></li>
+                <li><a href="#menu6">Labor Académica</a></li>
 
+            </ul>
+      </div>
+      <div class="col-md-10 col-md-offset-1">
             <div class="tab-content">
                 <div id="home" class="tab-pane fade in active">
 
@@ -72,7 +75,7 @@
                           <tr>
                             <td class="info-event">Inscripciones:</td>
                             <td>idhdes@usmp.pe 
-                              <a href="#"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                              <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8uhlPdo3l3POqzJHh4NsJeKI9Ul2Ow9Cx37Nw3u3VcVBCLw/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
                           </tr>
                           
                         </table>
@@ -209,7 +212,7 @@
                           <tr>
                             <td class="info-event">Inscripciones:</td>
                             <td>idhdes@usmp.pe 
-                              <a href="#"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                              <a href="https://docs.google.com/forms/d/e/1FAIpQLScfTm-h4rWQdMidXQYELoYW7gFzRxiYM09kszLW3iyARNrwQA/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
                           </tr>
                           
                           <tr>
@@ -348,7 +351,7 @@
                           <tr>
                             <td class="info-event">Inscripciones:</td>
                             <td>idhdes@usmp.pe 
-                              <a href="#"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeB4mj7jXxDzeT4a5sVcnycy8Dp4kfyZSifEhsyxz9p01zeWw/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
                           </tr>
                           
                           <tr>
@@ -445,7 +448,7 @@
                           <tr>
                             <td class="info-event">Inscripciones:</td>
                             <td>idhdes@usmp.pe 
-                              <a href="#"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                              <a href="https://docs.google.com/forms/d/e/1FAIpQLScqVC5Vw8GEx2KJztsR5VUQmT7r0bAzQaf9jJmLwLCjbpDCAw/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
                           </tr>
                           
                           <tr>
@@ -618,7 +621,7 @@
                           <tr>
                             <td class="info-event">Inscripciones:</td>
                             <td>idhdes@usmp.pe 
-                              <a href="#"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_osK9v-dY6U0SQzb7a_C-lRgsv6aORpWL1Q6buo_VdJdYYA/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
                           </tr>
                           
                           <tr>
@@ -714,6 +717,29 @@
                         
                         <img class="img-responsive" src="images/picsDefault/pronto.png" alt="">
                       </figure>
+                </div>
+              <!-- Labor academica -->
+                  <div id="menu6" class="tab-pane fade">
+                       <h4 class="titleH4">"XI ENCUENTRO: EMPRESAS Y DERECHOS HUMANOS ¿PODEMOS GANAR RESPONSABLEMENTE?" 15 AL 19 DE JULIO"</h4>
+
+                        <p class="txt-General">
+                       Del 15 al 19 de junio se llevó acabo el XI Encuentro: Empresas y Derechos Humanos ¿Podemos ganar responsablemente?, en las instalaciones de la UPUCP, en cual se contó con la participación como exponente del Dr. Renato Sotelo Torres – Docente Investigador del IDHDES, Abogado Especialista en DDHH del CEDH de la Facultad de Derecho USMP y miembro de Proyecto Ankawa. 
+                        </p>
+                        <figure class="text-center">
+                          <img src="images/expositor/renato.png" class="img-responsive" alt="Dr. Renato Sotelo Torre">
+                        </figure>
+
+                       <p class="txt-General">
+
+                      Cuyo objetivo de la Mesa de discusión: “El rol de las empresas en el desarrollo sostenible del país. Más allá del volumen de negocios”, es el análisis del desempeño empresarial en el desarrollo de la sociedad no solo a través de su función productiva de riquezas sino también en la plena efectividad de los derechos humanos. En este sentido, el estudio de las evidencias de los casos expuesto por el Dr. Renato Sotelo Torres, nos permite conocer que aún existen empresas que no consideran ni brindan el soporte necesario para crear espacios y/o ambientes sanos, adecuados y sostenibles que contribuirían a la motivación del personal.
+                      </p>
+
+                    
+                       <a href="pdf/ANKAWA-Seguridad_DDHH.pdf" target="_blank">
+                           <b> Materiales de Exposición </b><span class="ion-arrow-right-c"></span>
+                         <img src="images/img_pdf.png" alt=""> 
+
+
                 </div>
 
 
