@@ -74,7 +74,7 @@
               </p>
           
               <div class="shareTwitter">
-                <a href="https://twitter.com/share" class="twitter-share-button" data-lang="es"  data-text="POR UN DÍA DE LA TIERRA SOSTENIBLE PARA EL AÑO 2021 - #MiercolesVerde" data-url="http://usmp.edu.pe/prueba_idhdes/contenido/htnota/miercolesVerde.php"  data-via="IDHDES USMP"></a>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-lang="es"  data-text="POR UN DÍA DE LA TIERRA SOSTENIBLE PARA EL AÑO 2021 - #MiercolesVerde" data-url="http://usmp.edu.pe/IDHDES/contenido/htnota/miercolesVerde.php"  data-via="IDHDES USMP"></a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
               </div>

@@ -115,11 +115,6 @@
    </section>
  
       
-
-       
-  
-
-   
   
   <?php include("parts/footer.php") ?>
   <!-- End Footer --> 
@@ -136,8 +131,6 @@
 <?php include("parts/src-js.php") ?>
 
 </body>
-
-
 
 
 </html>

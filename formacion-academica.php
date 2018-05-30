@@ -615,7 +615,7 @@
                   
                   
 
-                   <h5 class="titleH5-sub">DERECHOS DE LAS PERSONAS CON DISCAPACIDAD</h5>
+                   <h5 class="titleH5-sub"> DERECHOS DE LAS PERSONAS CON DISCAPACIDAD</h5>
                    <p class="txt-General">
 
                   DESCRIPCION: En Estado con sistema jurídico de adecuada recepción del derecho internacional y una Institucionalidad fuerte, las personas con discapacidad serán adecuada y progresivamente protegidas en sus derechos fundamentales. <br>
