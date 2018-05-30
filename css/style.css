@@ -3191,6 +3191,11 @@ color:white;
 	border-bottom: 2px solid #7c2c40;
 	width:160px;
 }
+.titleH5-sub{
+	color: #7c2c40;
+	margin-top: 20px;
+	/*border:1px solid red;*/
+}
 .ion-android-checkbox{
 	color: green;
 
