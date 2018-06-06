@@ -579,7 +579,7 @@
 
                  
                   
-                  <h4 class="titleH4 text-center">CURSOS IN HOUSE</h4> 
+                  <h4 class="titleH4">CURSOS IN HOUSE</h4> 
 
                    <p class="txt-General">
                     Los cursos in house se desarrollan de forma anual.  Su duración y contenido responde a las necesidades de la institución pública o privada, organización o empresa contratante. <br> 
@@ -591,7 +591,7 @@
 
                   </p>
 
-                  <h5 class="titleH5-sub">1. GESTION PÚBLICA Y DESARROLLO SOSTENIBLE </h5> 
+                  <h5 class="titleH5-sub">GESTION PÚBLICA Y DESARROLLO SOSTENIBLE </h5> 
                   
                   <p class="txt-General">
                     DESCRIPCION: En el 2015, el Perú fue uno de los países en comprometerse con los 17 objetivos de desarrollo sostenible al 2030. Una adecuada gestión pública requiere voluntad política  comprometida con la ética de la sostenibilidad. Aquella que equilibra las necesidades del ser humano y la importancia de su medio ambiente. <br>
@@ -599,7 +599,7 @@
 
                   </p> 
 
-                  <h5 class="titleH5-sub">2. ECONOMIA VERDE Y GESTION DE RESIDUOS  </h5> 
+                  <h5 class="titleH5-sub">ECONOMIA VERDE Y GESTION DE RESIDUOS  </h5> 
 
                   <p class="txt-General">DESCRIPCION: Una adecuada gestión de los residuos puede no solo generar una economía respetuosa del medio ambiente, que aproveche los recursos de manera eficiente sino que se instituye como un tipo de economía que genera modernización y puestos de trabajo.  <br>
                   MINIMO DE PARTICIPANTES:      10 PERSONAS
@@ -607,7 +607,7 @@
                   
                   
 
-                   <h5 class="titleH5-sub">3.  DERECHOS DE LAS PERSONAS CON DISCAPACIDAD</h5>
+                   <h5 class="titleH5-sub"> DERECHOS DE LAS PERSONAS CON DISCAPACIDAD</h5>
                    <p class="txt-General">
 
                   DESCRIPCION: En Estado con sistema jurídico de adecuada recepción del derecho internacional y una Institucionalidad fuerte, las personas con discapacidad serán adecuada y progresivamente protegidas en sus derechos fundamentales. <br>
@@ -615,7 +615,7 @@
                   MINIMO DE PARTICIPANTES:      10 PERSONAS
                   </p>
 
-                  <h5 class="titleH5-sub">4. RECURSOS HUMANOS Y DERECHOS FUNDAMENTALES</h5>
+                  <h5 class="titleH5-sub">RECURSOS HUMANOS Y DERECHOS FUNDAMENTALES</h5>
                   <p class="txt-General">
 
                   DESCRIPCION: La dirección de recursos humanos es parte importante de toda empresa. La correcta organización del talento humano no puede dejar de lado la normatividad laboral y el respeto de los derechos fundamentales. 
@@ -624,19 +624,8 @@
 
                   </p>
 
-                 
-                
-
-                </div>
-        <!-- -------------------------- FIN  IN HOUSE------------------------ -->         
-               
-
-                <!-- TALLERES -->
-                 <div id="menu4" class="tab-pane fade">
-
-                 <h4 class="titleH4 text-center"> TALLERES CON ENFASIS EN DERECHOS HUMANOS</h4>
-
-                    <p class="txt-General">
+                  <h5 class="titleH5-sub">TALLERES CON ENFASIS EN DERECHOS HUMANOS</h5>
+                  <p class="txt-General">
 
                   Los talleres con énfasis en Derechos Humanos, comprenden diversas materias que tienen como finalidad promover el aprendizaje de los derechos humanos, su concientización así como dotar a los participantes del conocimiento y de las herramientas necesarias para desenvolverse en su ejercicio profesional.
 
@@ -645,67 +634,200 @@
                   La certificación se da a título de la Universidad de San Martín de Porres y por el número total de horas académicas.
                    </p>
 
-                  <h5 class="titleH5-sub">1. TALLER DE DERECHOS DE LAS PERSONAS CON DISCAPACIDAD</h5>
+                  <h5 class="titleH5-sub">TALLER DE DERECHOS DE LAS PERSONAS CON DISCAPACIDAD</h5>
                   <p class="txt-General">
                   Descripción: La accesibilidad de las personas con discapacidad se erige como un principio y derecho en la normatividad peruana e internacional.  Además, es un principio rector de la política pública contenido en el novísimo Plan de Accesibilidad de las personas con discapacidad 2018 – 2023. 
                   </p>    
 
 
-                  <h5 class="titleH5-sub">2. TALLER DE GESTION PÚBLICA Y DERECHOS HUMANOS</h5>
+                  <h5 class="titleH5-sub">TALLER DE GESTION PÚBLICA Y DERECHOS HUMANOS</h5>
                   <p class="txt-General">
                   Descripción: El objetivo de la gestión pública es simple: solucionar un problema de relevancia política y social. El enfoque en Derechos Humanos coloca en el centro de las políticas públicas al ser humano como ciudadano destinatario de protección de sus derechos humanos. 
                   </p>
 
 
-                  <h5 class="titleH5-sub">3. TALLER DE PARTICIPACION POLITICA Y DERECHOS POLITICOS</h5>
+                  <h5 class="titleH5-sub">TALLER DE PARTICIPACION POLITICA Y DERECHOS POLITICOS</h5>
                   <p class="txt-General">
                   Descripción: La garantía de la participación política tanto de los electores como de los elegidos como un derecho humano  en  situación de igualdad otorga legitimidad a una Democracia Transparente y Estable. 
 
                  </p>
 
 
-                  <h5 class="titleH5-sub">4. TALLER POLITICAS PÚBLICAS Y VIOLENCIA CONTRA LA MUJER</h5>
+                  <h5 class="titleH5-sub">TALLER POLITICAS PÚBLICAS Y VIOLENCIA CONTRA LA MUJER</h5>
                   <p class="txt-General">
                   Descripción: Lamentablemente, la violencia contra la mujer ha cobrado importancia en el acontecer nacional. Actual. Es importante que el estado no solo adopte medidas de persecución de los delitos contra la mujer sino también se debe desarrollar una política pública destinada a la remoción de las causas estructurales de la violencia de género. 
                   </p>
 
 
-                  <h5 class="titleH5-sub">5. TALLER DE LIBERTAD DE EXPRESION</h5>
+                  <h5 class="titleH5-sub">TALLER DE LIBERTAD DE EXPRESION</h5>
                   <p class="txt-General">
                   Descripción: Tanto el sistema interamericano y el Sistema universal de derechos humanos protegen y garantizan el derecho a la libertad de expresión, que en la actualidad no solo se manifiesta en las interacciones sociales sino también en el mundo digital. 
                       </p>
 
 
-                  <h5 class="titleH5-sub">6. TALLER DERECHO AMBIENTAL Y DESARROLLO SOSTENIBLE</h5>
+                  <h5 class="titleH5-sub">TALLER DERECHO AMBIENTAL Y DESARROLLO SOSTENIBLE</h5>
                   <p class="txt-General">
                   Descripción: El sector extractivo forma parte importante de la economía nacional. El desarrollo de una economía respetuosa del derecho ambiental es necesario para equilibrar el derecho al desarrollo y el respeto del desarrollo de las generaciones futuras.
 
                   </p>
 
 
-                  <h5 class="titleH5-sub">7. TALLER DERECHO INTERNACIONAL DE REFUGIADOS Y MIGRACION</h5>
+                  <h5 class="titleH5-sub">TALLER DERECHO INTERNACIONAL DE REFUGIADOS Y MIGRACION</h5>
                   <p class="txt-General">
                   Descripción: La repentina migración venezolana en el Perú ha dado relevancia a la discusión en sede nacional del estatus de los migrantes y los refugiados ante el derecho internacional y de los derechos humanos de los que gozan. El pilar del derecho de los refugiados es el principio de no retorno, de obligatorio respeto para el Estado Peruano. 
                   </p>
 
 
-                  <h5 class="titleH5-sub">8. TALLER DERECHOS SOCIALES ECONOMICOS Y CULTURALES</h5>
+                  <h5 class="titleH5-sub">TALLER DERECHOS SOCIALES ECONOMICOS Y CULTURALES</h5>
                   <p class="txt-General">
                   Descripción: Conocidos como derechos de segunda generación, se centran en la protección del trabajo, el bienestar económico, educación y el desenvolvimiento de la cultura de las personas. Si bien de obligatorio cumplimiento se caracterizan por el principio de progresividad.
                       </p>
 
 
-                  <h5 class="titleH5-sub">9. TALLER DE ESTANDARES INTERNACIONALES DE PROTECCION DE DERECHOS HUMANOS</h5>
+                  <h5 class="titleH5-sub">TALLER DE ESTANDARES INTERNACIONALES DE PROTECCION DE DERECHOS HUMANOS</h5>
                   <p class="txt-General">
                   Descripción: El Estado Peruano, como miembro de la Organización de Naciones Unidas tiene la obligación de respetar los derechos humanos en virtud de los artículos 55° y 56° de la Carta de Naciones Unidas. La declaración universal de derechos humanos sentó las bases para el desarrollo de la protección convencional y extraconvencionalidad de los derechos humanos. 
                       </p>
 
 
-                  <h5 class="titleH5-sub">10. SISTEMA INTERAMERICANO DE DERECHOS HUMANOS </h5>
+                  <h5 class="titleH5-sub">SISTEMA INTERAMERICANO DE DERECHOS HUMANOS </h5>
                   <p class="txt-General">
                   Descripción: La ratificación de la Convención Interamericana de Derechos Humanos y el sometimiento a la competencia contenciosa de la Corte Interamericana ofrece a las personas bajo la jurisdicción del Estado peruano un nivel de protección importante de sus derechos humanos.  Sin embargo, muchos retos quedan por sortear, tanto en el ámbito interno como en la propia institución. 
                       </p>
 
+
+                </div>
+        <!-- -------------------------- FIN  IN HOUSE------------------------ -->         
+               
+
+                <!-- TALLERES -->
+                 <div id="menu4" class="tab-pane fade">
+
+                 <h4 class="titleH4"> TALLERES CON ENFASIS EN DERECHOS HUMANOS Y CURSOS IN HOUSE</h4>
+                  <p class="txt-General">
+                       El Instituto de Derechos Humanos y Desarrollo de la Universidad de San Martín de Porres presenta su línea de Desarrollo Humano a través de talleres y cursos in house que abordan temas relacionados a Políticas Públicas, Gobernanza, Nuevas Tecnologías de la Información y de la Comunicación, Empresa y Responsabilidad Social, Gestión de Riesgo de Desastres, Desarrollo Sostenible, Recursos Humanos y Derechos Fundamentales, Comunicación Política, entre otros, temas de vanguardia.
+                  </p> 
+
+                  <p class="txt-General">
+                    Los cursos y talleres tienen por objetivo promover el conocimiento, la investigación y la especialización en las diversas materias así como dotar de las herramientas y competencias  necesarias y requeridas acorde a la demanda de las empresas, instituciones públicas y privadas, organizaciones y profesionales en general.
+
+                  </p>
+
+                    <div class="table-responsive">
+                        <table class="table" id="tabla-diplomado">
+                           <tr  >
+                            <td class="info-event">Inicio:</td>
+                            <td>Viernes 5, 12, 19 y 26 de agosto de 2016</td>
+                          </tr>
+                           <tr  >
+                            <td class="info-event">Duración:</td>
+                            <td> 4 sesiones</td>
+                          </tr>
+                         
+                          <tr  >
+                            <td class="info-event">Metodología:</td>
+                            <td>Presencial mediante exposiciones magistrales, talleres de grupo, estudios de casos y ejercicios analíticos. </td>
+                          </tr>
+
+                          <tr>
+                            <td class="info-event">Lugar:</td>
+                            <td> Facultad de Derecho – USMP (Av. Alameda del Corregidor 1864 Urb. La Ensenada – La Molina) * Por confirmar.</td>
+                          </tr>  
+                         
+                          <tr>
+                            <td class="info-event" >Hora:</td>
+                            <td>6:30 pm - 9:30 pm</td>
+                          </tr>
+                         
+                        
+                          <tr>
+                            <td class="info-event">Inscripciones:</td>
+                            <td>idhdes@usmp.pe 
+                              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_osK9v-dY6U0SQzb7a_C-lRgsv6aORpWL1Q6buo_VdJdYYA/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                          </tr>
+                          
+                          <tr>
+                            <td class="info-event">Dirigido:</td>
+                            <td>El taller estará dirigido al público en general..
+                              </td>
+                          </tr>
+                          
+                        </table>
+                    </div>
+
+                     <h5 class="titleH5">Objetivos</h5>  
+                      <p class="txt-General">
+                       - Brindar los conocimientos indispensables relacionados con los mecanismos de tutela de los derechos fundamentales, tanto a nivel nacional como internacional.
+                      </p> 
+                      <p class="txt-General">
+                        - Resaltar la importancia y la necesidad de contar con mecanismos de tutela de derechos.
+                      </p>
+
+                       <h5 class="titleH5">Requisitos</h5>  
+                       
+                      <p class="txt-General">
+                       1. Llenar la ficha electrónica de inscripción
+                      </p>
+
+                      <h5 class="titleH5">Certificación</h5>  
+                       
+                      <p class="txt-General">
+                       A los participantes asistentes del Taller se les brindará un certificado de participación en el taller.
+                      </p>
+
+                      <h5 class="titleH5">Expositores </h5>  
+                       
+                    
+                       <ul class="list-expo">
+                        
+                            <li><span class="ion-person"></span> Oscar Andrés Pazo Pineda</li>
+
+                            <li><span class="ion-person"></span> Benji Gregory Espinoza Ramos </li>
+                            <li><span class="ion-person"></span>  Luis Fernando Domínguez Vera </li>
+
+                       </ul>     
+                   
+                      <h5 class="titleH5">Precios </h5> 
+                      
+                      <p class="txt-General">
+                      <b>Participantes:</b> Costo por persona<br> 
+                      <b>Público en general:</b>  s/.100.00 (cien 00/100 nuevos soles) <br>
+                      <b>Estudiante Universitario:</b> s/.60.00 (sesenta 00/100 nuevos soles) <br>
+                      <b>Número de Cuenta:</b> N° de Cta.Cte del Scotianbank: 000-50-5543
+                      </p>
+
+                      <h5 class="titleH5">Afiche</h5>
+                        <figure class="text-center">
+                        <img class="img-responsive" src="images/eventos/mecanismos.jpg" alt="">
+                        </figure>
+                   
+                      <hr class="hr-editorial">
+                      <p class="txt-info"><span class="ion-android-clipboard"></span>  Tambien se realizarón los siguientes Talleres:</p>
+                    
+                        <ul class="list-expo" id="short2">
+                        
+                            <li><span class="ion-android-checkbox"></span>
+                             Taller de Liderazgo Político
+                            </li>
+                            <li><span class="ion-android-checkbox"></span>
+                              Los Derechos Humanos en el Nuevo Proceso Penal
+                            </li>
+                            
+                            </li>
+                            <li><span class="ion-android-checkbox"></span>
+                              Taller de Formación en Derechos Humanos" Género y Políticas Públicas
+                            </li>
+                            
+                             <li><span class="ion-android-checkbox"></span>
+                               Taller sobre la protección de la unidad familiar y sus mecanismos de tutela
+                            </li>
+
+                             <li><span class="ion-android-checkbox"></span>
+                             Taller de Responsabilidad Social y Empresa Sostenibles
+                            </li>
+                          
+
+                      </ul>
                 </div>
 
 

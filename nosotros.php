@@ -10,25 +10,7 @@
 <!-- Document Title -->
 <title>IDHDES</title>
 
-
-<!-- Favicon -->
-<link rel="shortcut icon" href="images/favicon.png" type="images/png">
-
-<!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
-<link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
-
-<!-- StyleSheets -->
-<link rel="stylesheet" href="css/ionicons.min.css">
-<link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
-<link rel="stylesheet" href="css/font-awesome.min.css">
-<link rel="stylesheet" href="css/main.css">
-<link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="css/responsive.css">
-
-
-
-<!-- JavaScripts -->
-<script src="js/vendors/modernizr.js"></script>
+<?php require_once("parts/src-css.php") ?>
 
 </head>
 <body>
@@ -118,7 +100,7 @@
 
         <div class="row">
             <div class="col-xs-12"> 
-                <h2 class="title-two text-center"> EQUIPO DE TRABAJO</h2>
+                <h2 class="title-two text-center"> Comité Consultivo</h2>
               
                 <div class="carousel slide" id="myCarousel"  >
                         <div class="carousel-inner">
@@ -385,12 +367,7 @@
 
    
   
-    <footer class="footer">
-        <p>Teléfono - 01-421-5366 , Direccion - Calle Los Pinos #250, San Isidro <br>
-            Copyright © 2016 Área de Diseño Gráﬁco y Multimedia - FIA USMP <br>
-            Todos los derechos reservados
-        </p> 
-  </footer>
+    <?php include("parts/footer.php") ?>
   <!-- End Footer --> 
   
   <!-- GO TO TOP  --> 
@@ -400,20 +377,7 @@
 <!-- End Page Wrapper --> 
 
 <!-- JavaScripts --> 
-<script src="js/vendors/jquery/jquery.min.js"></script> 
-<script src="js/vendors/wow.min.js"></script> 
-<script src="js/vendors/bootstrap.min.js"></script> 
-<!-- <script src="js/vendors/jquery.cubeportfolio.min.js"></script>   -->
-<script src="js/vendors/own-menu.js"></script> 
-<script src="js/vendors/jquery.sticky.js"></script> 
- <script src="js/vendors/owl.carousel.min.js"></script> 
- <script src="js/vendors/color-switcher.js"></script> 
- <script src="js/vendors/myScripts.js"></script>
-
-<!-- SLIDER REVOLUTION 4.x SCRIPTS  --> 
-<script type="text/javascript" src="rs-plugin/js/jquery.tp.t.min.js"></script> 
-<script type="text/javascript" src="rs-plugin/js/jquery.tp.min.js"></script> 
-<script src="js/kana.js"></script>
+<?php include("parts/src-js.php") ?>
 </body>
 
 

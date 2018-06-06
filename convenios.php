@@ -36,20 +36,25 @@
     </section>
 
 <div class="container-fluid">
-   <br> <br> <br>
+   <br> 
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
             
+        <h4 class="titleH4"> Convenio Interinstitucional USMP - UNESCO</h4>
 
-                   <figure class="text-center marginT40">
-                        
-                        <img class="img-responsive" src="images/picsDefault/pronto.png" alt="">
-                      </figure>
-
-            
-
-
-      </div>
+        <figure  class="text-center">
+          <img  class="img-responsive" src="images/convenios/pic1.jpg" alt="">
+        </figure>
+        <br>
+        <figure class="text-center">
+          <img  class="img-responsive" src="images/convenios/pic2.jpg" alt="">
+        </figure>
+        <br>
+        <figure class="text-center">
+          <img  class="img-responsive" src="images/convenios/pic3.jpg" alt="">
+        </figure>
+   
+   
             <br> <br>
       </div>  
     </div>  
