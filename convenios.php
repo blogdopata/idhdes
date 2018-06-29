@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="author" content="Grafimedia" />
-<meta name="description" content="Formación Académica -  IDHDES  >
+<meta name="description" content="Convenios -  IDHDES " >
 <meta charset="UTF-8">
 <!-- Document Title -->
 <title>IDHDES</title>

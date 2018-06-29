@@ -33,6 +33,7 @@
             <li id="link4"><a href="http://usmp.edu.pe/IDHDES/convenios.php">Convenios</a></li>
             <li id="link5"><a href="http://usmp.edu.pe/IDHDES/editorial.php">Editorial</a></li>
             <li id="link6"><a href="http://usmp.edu.pe/IDHDES/publicaciones.php">Publicaciones</a></li>
+            <li id="link6"><a href="http://usmp.edu.pe/IDHDES/cursos.php">Cursos</a></li>
    
           </ul>
         </nav>
