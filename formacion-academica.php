@@ -42,17 +42,22 @@
             <ul class="nav nav-tabs chaos text-center" style="padding-left: 15%;">
                 <li class="active"><a href= "#home">Aniversario 2015</a></li>
                 <li ><a href="#menu0" class="menu0">Conferencias</a></li>
+                <li ><a href="#menu7">Seminarios</a></li>
                 <li><a href= "#menu1">Conversatorios</a></li>
                 <li><a href="#menu2">Cursos</a></li>
                 <li><a href="#menu3">In House</a></li>
                 <li><a href="#menu4" class="menu4">Talleres</a></li>
-               
                 <li><a href="#menu6">Labor Académica</a></li>
 
             </ul>
       </div>
+
+      <!-- Aniversario 2015 // menu0 --> 
+
       <div class="col-md-10 col-md-offset-1">
+
             <div class="tab-content">
+
                 <div id="home" class="tab-pane fade in active">
 
                     <h4 class="titleH4"> “Libertad de expresión y comunicación política electoral en las redes sociales”</h4>
@@ -141,24 +146,138 @@
                         </a>
                         
 
-                        <h5 class="titleH5">Afiche</h5>
+                        <h5 class="titleH5">Afiche</h5> 
                         <figure class="text-center">
                         <img class="img-responsive" src="images/eventos/afiche_redes.jpg" alt="">
+                         </figure>                       
+
+                </div>
+           
+                <!-- FIN Aniversario 2015 // menu0 --> 
+
+              <!-- SEMINARIOS -->
+                
+                 <div id="menu7" class="tab-pane fade ">
+
+                    <h4 class="titleH4"> Seminario Virtual "SEGURIDAD CIUDADANA: EXPERIENCIAS INNOVADORAS EN AMERICA LATINA”</h4>
+
+                    <div class="table-responsive">
+                        <table class="table" id="tabla-diplomado">
+                          <tr  >
+                            <td class="info-event">Dia:</td>
+                            <td> 01 de Agosto 2018</td>
+                          </tr>
+                          <tr>
+                            <td class="info-event" >Público Objetivo:</td>
+                            <td>Público en general, estudiantes y docentes universitarios de carreras afines, funcionarios y servidores públicos, profesionales del sector privado, municipios y demás interesados</td>
+                          </tr>
+                          <tr>
+                            <td class="info-event" >Temas:</td>
+                            <td> <b>Entre los temas a tratar tenemos:</b>
+                                  <ul>
+                                    <li>Análisis de las causas multidimensionales de la inseguridad ciudadana y sus efectos en el bienestar de la sociedad. <br>  </li>
+                                    <li>Elaboración de diagnósticos en seguridad y orden públicos.</li>
+                                    <li>Firma de acuerdos entre municipalidades para la elaboración de protocolos de cooperación y preparación de estadísticas sobre delitos</li>
+                                    <li>Capacitación en análisis de datos delictivos</li>
+                                  </ul>            
+                              </td>      
+                          </tr>
+                        
+                          <tr>
+                            <td class="info-event">Inscripciones:</td>
+                            <td>
+                              <a href="bit.ly/2LxgCLx" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                          </tr>
+                           <tr>
+                            <td class="info-event">Duración: </td>
+                            <td>4 sesiones virtuales </td>
+                          </tr>
+
+                         <tr>
+                            <td class="info-event">Costo Taller: </td>
+                            <td> 
+                              Público General: S/. 200.00 nuevos soles <br> 
+                              Estudiantes: S/. 100.00 nuevos soles <br>
+                              Corporativo: S/. 150.00 nuevos soles
+                            </td>
+                          </tr>
+                          
+                        </table>
+                    </div>
+
+
+                        <h5 class="titleH5">Afiche</h5> <br>
+                        <figure class="text-center">
+                        <img class="img-responsive" src="images/eventos/afiche_seguridad_ciudadana.jpg" alt="">
+                         </figure>    
+
+
+                    <!-- otro seminario -->
+<hr class="hr-editorial">
+                     <h4 class="titleH4"> Seminario Virtual "LOS DERECHOS HUMANOS Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD" </h4>
+
+                    <div class="table-responsive">
+                        <table class="table" id="tabla-diplomado">
+                          <tr  >
+                            <td class="info-event">Dia:</td>
+                            <td> 01 de Agosto 2018</td>
+                          </tr>
+                          <tr>
+                            <td class="info-event" >Público Objetivo:</td>
+                            <td>Público en general, estudiantes y docentes universitarios de carreras afines, funcionarios y servidores públicos, profesionales del sector privado y demás interesados.</td>
+                          </tr>
+                          <tr>
+                            <td class="info-event" >Temas:</td>
+                            <td> <b>Entre los temas a tratar tenemos:</b>
+                                  <ul>
+                                    <li>Definición del derecho a la  accesibilidad. Las principales obligaciones estatales en la Constitución, la ley y los tratados en derechos humanos.
+                                    </li>
+                                    <li>La accesibilidad como manifestación del derecho de la prohibición de discriminación y el derecho a la igualdad.</li>
+                                    <li>Funciones y prerrogativas de la Comisión Nacional de Discapacitados – CONADIS y de la Comisión Multisectorial Permanente.</li>
+                                    <li>El diagnóstico de accesibilidad elaborado por el Plan Nacional de Accesibilidad </li>
+
+                                  </ul>            
+                              </td>      
+                          </tr>
+                        
+                          <tr>
+                            <td class="info-event">Inscripciones:</td>
+                            <td>
+                              <a href="bit.ly/2JGrBoG" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                          </tr>
+                           <tr>
+                            <td class="info-event">Duración: </td>
+                            <td>4 sesiones virtuales </td>
+                          </tr>
+
+                         <tr>
+                            <td class="info-event">Costo Taller: </td>
+                            <td> 
+                              Público General: S/. 200.00 nuevos soles <br> 
+                              Estudiantes: S/. 100.00 nuevos soles <br>
+                              Corporativo: S/. 150.00 nuevos soles
+                            </td>
+                          </tr>
+                          
+                        </table>
+                    </div>
+
+
+                        <h5 class="titleH5">Afiche</h5> <br>
+                        <figure class="text-center">
+                        <img class="img-responsive" src="images/eventos/idhdes-derechosDiscapacitados.jpg" alt="">
                          </figure> 
-
-                        
-                        
-        
-
-
-
 
 
 
                 </div>
 
 
-                <!--------------  -Conferencias -------------> 
+                <!-- FIN SEMINARIOS -->
+
+
+
+                <!-- ------------  -Conferencias ----------- --> 
                 <div id="menu0" class="tab-pane fade">
                    <p class="txt-info"><span class="ion-android-clipboard"></span>  Se realizarón las siguientes conferencias:</p>
                      
@@ -188,229 +307,243 @@
                 <div id="menu1" class="tab-pane fade">
                     
                    
-                     <h4 class="titleH4">  Conversatorio: Igualdad de Género</h4>
+                       <h4 class="titleH4">  Conversatorio: Igualdad de Género</h4>
 
-                    <div class="table-responsive">
-                        <table class="table" id="tabla-diplomado">
-                           <tr  >
-                            <td class="info-event">Inicio:</td>
-                            <td>Viernes 03 de Junio</td>
-                          </tr>
-                          <tr  >
-                            <td class="info-event">Metodología:</td>
-                            <td>Presencial mediante charlas Y puestas en escena</td>
-                          </tr>
-                          <tr>
-                            <td class="info-event" >Hora:</td>
-                            <td>12.00 pm a 2.00 pm</td>
-                          </tr>
-                          <tr>
-                            <td class="info-event" >Lugar:</td>
-                            <td>Facultad de Derecho – USMP</td>
-                          </tr>
-                        
-                          <tr>
-                            <td class="info-event">Inscripciones:</td>
-                            <td>idhdes@usmp.pe 
-                              <a href="https://docs.google.com/forms/d/e/1FAIpQLScfTm-h4rWQdMidXQYELoYW7gFzRxiYM09kszLW3iyARNrwQA/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
-                          </tr>
+                        <div class="table-responsive">
+                            <table class="table" id="tabla-diplomado">
+                               <tr  >
+                                <td class="info-event">Inicio:</td>
+                                <td>Viernes 03 de Junio</td>
+                              </tr>
+                              <tr  >
+                                <td class="info-event">Metodología:</td>
+                                <td>Presencial mediante charlas Y puestas en escena</td>
+                              </tr>
+                              <tr>
+                                <td class="info-event" >Hora:</td>
+                                <td>12.00 pm a 2.00 pm</td>
+                              </tr>
+                              <tr>
+                                <td class="info-event" >Lugar:</td>
+                                <td>Facultad de Derecho – USMP</td>
+                              </tr>
+                            
+                              <tr>
+                                <td class="info-event">Inscripciones:</td>
+                                <td>idhdes@usmp.pe 
+                                  <a href="https://docs.google.com/forms/d/e/1FAIpQLScfTm-h4rWQdMidXQYELoYW7gFzRxiYM09kszLW3iyARNrwQA/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                              </tr>
+                              
+                              <tr>
+                                <td class="info-event">Dirigido:</td>
+                                <td>El conversatorio estará dirigido a estudiantes y docentes de Derecho así como a la comunidad en general.
+                                  </td>
+                              </tr>
+                              
+                            </table>
+                        </div>
+
+                        <a href="#" id="more-info" class="more-info">Más información</a>
+
+                        <div id="showInfo" style="display: none;">
+
+                          <h5 class="titleH5">Información</h5>  
+                          <p class="txt-General">
+                               <b> 1.  JUSTIFICACIÓN</b>
+                          </p>
+
+                          <p class="txt-General">
+                            Este proyecto de enseñanza a través del arte y debate de temas relacionados a la igualdad de género se justifica en el artículo 14 de la Constitución Política del Perú, el cual establece que la enseñanza de la educación de los Derechos Humanos, Constitución y formación ética y cívica es obligatoria e indispensable en cualquier proceso de educación.
+                          </p>
+
+                          <p class="txt-General">
+                            Asimismo, la Declaración y Programa de Acción de Viena, aprobados durante la Cumbre Mundial sobre Derechos Humanos de Viena (1993) se estableció que “la educación, la capacitación y la información pública en materia de derechos humanos son indispensables para establecer y promover relaciones estables y armoniosas entre las comunidades y para fomentar la comprensión mutua, la tolerancia y la paz” .
+                          </p>
+
+                          <p class="txt-General">
+                            Finalmente recordar que el tema de la educación en Derechos Humanos surge como una necesidad en un Estado democrático debido a que la educación es la piedra angular para el desarrollo de una sociedad. Es así que el Plan Nacional en derechos y deberes al 2021 busca, a través de sus lineamientos estratégicos, el fortalecimiento de su enseñanza dentro de todos los sectores de la sociedad.
+                          </p>
+                          <p class="txt-General">
+                           <b> 2.  FINALIDAD</b>
+                          </p>
+
+                          <p class="txt-General">
+                            Generar a través del arte el debate sobre los derechos de las mujeres. En ese sentido, se pretende enfocar en específico la igualdad de la mujer así como la historia de éstos derechos desde la perspectiva histórica con la finalidad de hacer entender la relevancia de éstos derechos, desde la óptica de la desigualdad histórica necesaria para no olvidar el camino andado y lo que queda por conseguir en el futuro.
+                          </p>
+
+                          <p class="txt-General">
+                            Esto tiene especial relevancia en un estado constitucional como el nuestro, en el que los tratados internacionales forman parte de nuestro cuerpo jurídico, en ese sentido la Convención Belem do Pará y la Convención Internacional contra la Discriminación contra la Mujer propugnan la igualdad de género y sus comités han desarrollado una serie de indicadores tanto a nivel de Estado como de sociedad que resultan significativos de resaltar.
+                          </p>
+
+                          <p class="txt-General">
+                              <b> 3.  OBJETIVOS:</b>
+                          </p> 
+
+                          <p class="txt-General">
+                            Que el público sea capaz de identificar los conceptos básicos de:
+                          </p> 
+
+                          <p class="txt-General">
+                            • Igualdad <br> 
+                            • Discriminación causada por el género <br> 
+                            • Violencia contra la mujer <br> 
+                            • Estereotipos y roles de género <br>
+                          </p>
+                          <p class="txt-General">
+                            Asimismo, que puedan absolver las dudas que suelen existir en torno al tema a través del conversatorio y representación artística.
+                          </p>
+                          <p class="txt-General">
+                            <b>4.  EVALUACIÓN DE LOS OBJETIVOS</b>
+                          </p>
+                          <p class="txt-General">
+                            Para poder medir el impacto de la presentación en el público asistente se les proporcionará una pequeña encuesta, en donde tengan que llenar los conceptos básicos que pretendemos fijar así como sus observaciones sobre la puesta en escena y conversatorio en general.
+                          </p>
+                          <h5 class="titleH5">Organización</h5>  
+                          <p class="txt-General">
+                            
+                          La organización del conversatorio estará a cargo del Instituto de Derechos Humanos y Desarrollo de la Universidad de San Martín de Porres (IDHDES) y de la Facultad de Derecho de la USMP.
+                          </p>
+
+                          <h5 class="titleH5">Tema</h5>  
+
+                          <p class="txt-General">
+                              1.  Derechos de la mujer e igualdad de género.
+                          </p>
+
+                          <h5 class="titleH5">Encardaga</h5>  
+
+                          <p class="txt-General">
+                            <span class="ion-person"></span> Alexandra Cabrera Sánchez.
+                          </p>
+
+                           <h5 class="titleH5">Requisitos</h5>  
+                          <p class="txt-General">
+                               1.  Llenar la ficha electrónica de inscripción. <br>
+
+                              2.  Remitir un correo electrónico a idhdes@usmp.pe , con datos completos.
+                          </p>
+          
+                          <h5 class="titleH5">Metodología</h5>  
+                          <p class="txt-General">
+                             A los y las participantes asistentes del Conversatorio.
+                          </p>
+
+                          <h5 class="titleH5">Certificación</h5>  
+                          <p class="txt-General">
+                               Al tratarse de un sketch teatral que tiene por finalidad propiciar el debate se desarrollará de la siguiente forma:
+                          </p>
+                          <p class="txt-General">
+                                Primero se presentará la primera parte del sketch en base a los chistes basados en estereotipos de género, así como la muestra de encabezados periodísticos que tienen ese mismo; todo ello con el tinte de chiste a fin de propiciar la posterior reflexión.
+                          </p>
+                          <p class="txt-General">
+                                La segunda parte consistirá en la representación teatral de los hechos históricos más significativos en la lucha por la igualdad de los derechos de las mujeres, partiendo desde lo más remoto hacia las nuevas discusiones en esta mperia.
+                          </p>
+                          <p class="txt-General">
+                                Finalmente, se conversará con los y las participantes a fin de oír cuáles son sus ideas y conceptos propios spre los temas en los que girará la representación artística.
+                          </p>
+                          <p class="txt-General">
+                               La representación artística tendrá una duración máxima de media hora y en su conjunto el conversatorio durará 2 horas aproximadamente.
+                          </p>
+                          <p class="txt-General">
+                                Es importante resaltar que las personas que participen en la representación artística tendrán una previa capacitación sobre los temas que enfoca el sketch a fin de que el efecto educador del mismo sea transversal a todas las personas involucradas en éste.
+                          </p>
+
+                            <h5 class="titleH5">Afiche</h5>
+
+                            <figure class="text-center">
+                                  <img class="img-responsive" src="images/eventos/afiche-2.jpg" alt="">
+                            </figure>
+                       </div>
+               
+                        <hr class="hr-editorial">
+
+                         <h4 class="titleH4"> Conversatorio: Prensa y Libertad de Expresión</h4>
+
+                        <div class="table-responsive">
+                          <table class="table" id="tabla-diplomado">
+                            <tr>
+                              <td class="info-event">Inicio:</td>
+                              <td>Jueves 26 de mayo 2016</td>
+                            </tr>
+                             <tr>
+                              <td class="info-event">Metodología:</td>
+                              <td>  Presencial mediante exposición y posterior conversatorio  <br>(promover la participación activa de los participantes).</td>
+                            </tr>
+
                           
-                          <tr>
-                            <td class="info-event">Dirigido:</td>
-                            <td>El conversatorio estará dirigido a estudiantes y docentes de Derecho así como a la comunidad en general.
-                              </td>
-                          </tr>
+                            <tr>
+                              <td class="info-event" >Hora:</td>
+                              <td>6:00 pm – 8:00 pm</td>
+                            </tr>
+                            <tr>
+                              <td class="info-event" >Lugar:</td>
+                              <td>Facultad de Ciencias de la Comunicación, Psicología y Turismo de la USMP. <br> Av. Tomas Marsano No. 242 – Surquillo.</td>
+                            </tr>
                           
-                        </table>
-                    </div>
-
-                    <a href="#" id="more-info" class="more-info">Más información</a>
-
-                    <div id="showInfo" style="display: none;">
-
-                      <h5 class="titleH5">Información</h5>  
-                      <p class="txt-General">
-                       <b> 1.  JUSTIFICACIÓN</b>
-                      </p>
-
-                        Este proyecto de enseñanza a través del arte y debate de temas relacionados a la igualdad de género se justifica en el artículo 14 de la Constitución Política del Perú, el cual establece que la enseñanza de la educación de los Derechos Humanos, Constitución y formación ética y cívica es obligatoria e indispensable en cualquier proceso de educación.
-                      </p>
-                      <p class="txt-General">
-                        Asimismo, la Declaración y Programa de Acción de Viena, aprobados durante la Cumbre Mundial sobre Derechos Humanos de Viena (1993) se estableció que “la educación, la capacitación y la información pública en materia de derechos humanos son indispensables para establecer y promover relaciones estables y armoniosas entre las comunidades y para fomentar la comprensión mutua, la tolerancia y la paz” .
-                      </p>
-                      <p class="txt-General">
-                        Finalmente recordar que el tema de la educación en Derechos Humanos surge como una necesidad en un Estado democrático debido a que la educación es la piedra angular para el desarrollo de una sociedad. Es así que el Plan Nacional en derechos y deberes al 2021 busca, a través de sus lineamientos estratégicos, el fortalecimiento de su enseñanza dentro de todos los sectores de la sociedad.
-                      <p class="txt-General">
-                       <b> 2.  FINALIDAD</b>
-                      </p>
-                      <p class="txt-General">
-                        Generar a través del arte el debate sobre los derechos de las mujeres. En ese sentido, se pretende enfocar en específico la igualdad de la mujer así como la historia de éstos derechos desde la perspectiva histórica con la finalidad de hacer entender la relevancia de éstos derechos, desde la óptica de la desigualdad histórica necesaria para no olvidar el camino andado y lo que queda por conseguir en el futuro.
-                      </p>
-                      <p class="txt-General">
-                        Esto tiene especial relevancia en un estado constitucional como el nuestro, en el que los tratados internacionales forman parte de nuestro cuerpo jurídico, en ese sentido la Convención Belem do Pará y la Convención Internacional contra la Discriminación contra la Mujer propugnan la igualdad de género y sus comités han desarrollado una serie de indicadores tanto a nivel de Estado como de sociedad que resultan significativos de resaltar.
-                      </p>
-                      <p class="txt-General">
-                       <b> 3.  OBJETIVOS:</b>
-                      </p> 
-                      <p class="txt-General">
-                        Que el público sea capaz de identificar los conceptos básicos de:
-                      </p> 
-                      <p class="txt-General">
-                        • Igualdad
-                        • Discriminación causada por el género
-                        • Violencia contra la mujer
-                        • Estereotipos y roles de género
-                      </p>
-                      <p class="txt-General">
-                        Asimismo, que puedan absolver las dudas que suelen existir en torno al tema a través del conversatorio y representación artística.
-                      </p>
-                      <p class="txt-General">
-                        <b>4.  EVALUACIÓN DE LOS OBJETIVOS</b>
-                      </p>
-                      <p class="txt-General">
-                        Para poder medir el impacto de la presentación en el público asistente se les proporcionará una pequeña encuesta, en donde tengan que llenar los conceptos básicos que pretendemos fijar así como sus observaciones sobre la puesta en escena y conversatorio en general.
-                      </p>
-                      <h5 class="titleH5">Organización</h5>  
-                      <p class="txt-General">
-                        
-                      La organización del conversatorio estará a cargo del Instituto de Derechos Humanos y Desarrollo de la Universidad de San Martín de Porres (IDHDES) y de la Facultad de Derecho de la USMP.
-                      </p>
-                      <h5 class="titleH5">Tema</h5>  
-                      <p class="txt-General">
-                       1.  Derechos de la mujer e igualdad de género.
-                      </p>
-
-                      <h5 class="titleH5">Encardaga</h5>  
-                      <p class="txt-General">
-                        <span class="ion-person"></span> Alexandra Cabrera Sánchez.
-                      </p>
-
-                       <h5 class="titleH5">Requisitos</h5>  
-                      <p class="txt-General">
-                       1.  Llenar la ficha electrónica de inscripción. <br>
-
-                      2.  Remitir un correo electrónico a idhdes@usmp.pe , con datos completos.
-                      </p>
-      
-                      <h5 class="titleH5">Metodología</h5>  
-                      <p class="txt-General">
-                         A los y las participantes asistentes del Conversatorio.
-                      </p>
-
-                      <h5 class="titleH5">Certificación</h5>  
-                      <p class="txt-General">
-                      Al tratarse de un sketch teatral que tiene por finalidad propiciar el debate se desarrollará de la siguiente forma:
-                      </p>
-                      <p class="txt-General">
-                      Primero se presentará la primera parte del sketch en base a los chistes basados en estereotipos de género, así como la muestra de encabezados periodísticos que tienen ese mismo; todo ello con el tinte de chiste a fin de propiciar la posterior reflexión.
-                      </p>
-                      <p class="txt-General">
-                      La segunda parte consistirá en la representación teatral de los hechos históricos más significativos en la lucha por la igualdad de los derechos de las mujeres, partiendo desde lo más remoto hacia las nuevas discusiones en esta mperia.
-                      </p>
-                      <p class="txt-General">
-                      Finalmente, se conversará con los y las participantes a fin de oír cuáles son sus ideas y conceptos propios spre los temas en los que girará la representación artística.
-                      </p>
-                      <p class="txt-General">
-                      La representación artística tendrá una duración máxima de media hora y en su conjunto el conversatorio durará 2 horas aproximadamente.
-                      </p>
-                      <p class="txt-General">
-                      Es importante resaltar que las personas que participen en la representación artística tendrán una previa capacitación sobre los temas que enfoca el sketch a fin de que el efecto educador del mismo sea transversal a todas las personas involucradas en éste.
-                      </p>
-
-                    <h5 class="titleH5">Afiche</h5>
-                        <figure class="text-center">
-                        <img class="img-responsive" src="images/eventos/afiche-2.jpg" alt="">
-                        </figure>
-                    </div>
+                            <tr>
+                              <td class="info-event">Inscripciones:</td>
+                              <td>idhdes@usmp.pe 
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeB4mj7jXxDzeT4a5sVcnycy8Dp4kfyZSifEhsyxz9p01zeWw/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td class="info-event">Dirigido:</td>
+                              <td>El conversatorio estará dirigido a periodistas y estudiantes de ciencias de la comunicación.
+                                </td>
+                            </tr>
+                            
+                          </table>
+                        </div>
 
 
-                <hr class="hr-editorial">
-                 <h4 class="titleH4"> Conversatorio: Prensa y Libertad de Expresión</h4>
+                        <a href="#" id="more-info2" class="more-info">Más información</a>
 
-                    <div class="table-responsive">
-                        <table class="table" id="tabla-diplomado">
-                          <tr>
-                            <td class="info-event">Inicio:</td>
-                            <td>Jueves 26 de mayo 2016</td>
-                          </tr>
-                           <tr>
-                            <td class="info-event">Metodología:</td>
-                            <td>  Presencial mediante exposición y posterior conversatorio  <br>(promover la participación activa de los participantes).</td>
-                          </tr>
+                        <div id="showInfo2" style="display:none">
 
-                        
-                          <tr>
-                            <td class="info-event" >Hora:</td>
-                            <td>6:00 pm – 8:00 pm</td>
-                          </tr>
-                          <tr>
-                            <td class="info-event" >Lugar:</td>
-                            <td>Facultad de Ciencias de la Comunicación, Psicología y Turismo de la USMP. <br> Av. Tomas Marsano No. 242 – Surquillo.</td>
-                          </tr>
-                        
-                          <tr>
-                            <td class="info-event">Inscripciones:</td>
-                            <td>idhdes@usmp.pe 
-                              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeB4mj7jXxDzeT4a5sVcnycy8Dp4kfyZSifEhsyxz9p01zeWw/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
-                          </tr>
-                          
-                          <tr>
-                            <td class="info-event">Dirigido:</td>
-                            <td>El conversatorio estará dirigido a periodistas y estudiantes de ciencias de la comunicación.
-                              </td>
-                          </tr>
-                          
-                        </table>
-                    </div>
+                        <h5 class="titleH5">Organización</h5>  
+                        <p class="txt-General">
+                         La organización del conversatorio estará a cargo del Instituto de Derechos Humanos y Desarrollo de la Universidad de San Martín de Porres (IDHDES) y de la Periodista Valia Barak Pastor.
+                        </p>
 
-                    <a href="#" id="more-info2" class="more-info">Más información</a>
-
-                    <div id="showInfo2" style="display:none">
-
-                       <h5 class="titleH5">Organización</h5>  
-                      <p class="txt-General">
-                       La organización del conversatorio estará a cargo del Instituto de Derechos Humanos y Desarrollo de la Universidad de San Martín de Porres (IDHDES) y de la Periodista Valia Barak Pastor.
-                      </p>
-
-                       <h5 class="titleH5">Información</h5>  
-                       <p class="txt-General">
-                         <b>Objetivos:</b>
-                       </p>
-                      <p class="txt-General">
-                       - Acercar a periodistas y estudiantes de ciencias de la comunicación, mediante un conversatorio participativo, al conocimiento sobre aspectos básicos y centrales sobre la libertad de expresión y su importancia para una prensa libre en una cultura democrática.
-                      </p>
-                      <h5 class="titleH5">Tema</h5>  
-                       <p class="txt-General">
-                       1. La libertad de expresión y su importancia para una verdadera prensa libre
-                       </p>
-                        <h5 class="titleH5">Encargada</h5>  
-                       <p class="txt-General">
-                       <span class="ion-person"></span> Valia Barak Pastor - Periodista
-                       </p>
-                        <h5 class="titleH5">Requisitos</h5>  
-                       <p class="txt-General">
-                       1. Llenar la ficha electrónica de inscripción. <br>
-
-                        2. Remitir un correo electrónico a idhdes@usmp.pe , con datos completos.
-                       </p>
-                      <h5 class="titleH5">Certificación</h5>  
+                         <h5 class="titleH5">Información</h5>  
                          <p class="txt-General">
-                     A los y las participantes asistentes del Conversatorio..
-                       </p>
-                      <h5 class="titleH5">Metodología</h5>  
+                           <b>Objetivos:</b>
+                         </p>
+                        <p class="txt-General">
+                         - Acercar a periodistas y estudiantes de ciencias de la comunicación, mediante un conversatorio participativo, al conocimiento sobre aspectos básicos y centrales sobre la libertad de expresión y su importancia para una prensa libre en una cultura democrática.
+                        </p>
+                        <h5 class="titleH5">Tema</h5>  
                          <p class="txt-General">
-                     El desarrollo metodológico del conversatorio se llevará a cabo en alguna de las siguientes modalidades:
-                        1. Exposición <br>
-                        2. Conversatorio
+                         1. La libertad de expresión y su importancia para una verdadera prensa libre
+                         </p>
+                          <h5 class="titleH5">Encargada</h5>  
+                         <p class="txt-General">
+                         <span class="ion-person"></span> Valia Barak Pastor - Periodista
+                         </p>
+                          <h5 class="titleH5">Requisitos</h5>  
+                         <p class="txt-General">
+                         1. Llenar la ficha electrónica de inscripción. <br>
 
-                       </p>
-                     <h5 class="titleH5">Afiche</h5>
-                        <figure class="text-center">
-                        <img class="img-responsive" src="images/eventos/evento-3.jpg" alt="">
-                         </figure> 
+                          2. Remitir un correo electrónico a idhdes@usmp.pe , con datos completos.
+                         </p>
+                        <h5 class="titleH5">Certificación</h5>  
+                           <p class="txt-General">
+                       A los y las participantes asistentes del Conversatorio..
+                         </p>
+                        <h5 class="titleH5">Metodología</h5>  
+                           <p class="txt-General">
+                       El desarrollo metodológico del conversatorio se llevará a cabo en alguna de las siguientes modalidades:
+                          1. Exposición <br>
+                          2. Conversatorio
+
+                         </p>
+                       <h5 class="titleH5">Afiche</h5>
+                          <figure class="text-center">
+                          <img class="img-responsive" src="images/eventos/evento-3.jpg" alt="">
+                           </figure> 
 
 
-                    </div>
+                        </div>
 
                 </div>
 
@@ -419,55 +552,60 @@
               <!-- CURSOS --->
                 <div id="menu2" class="tab-pane fade">
                       
-                      <h4 class="titleH4"> Curso Semipresencial de Alta Especialización de Libertad de Expresión y su Ejercicio Responsable</h4>
+                    <h4 class="titleH4"> Curso Semipresencial de Alta Especialización de Libertad de Expresión y su Ejercicio Responsable</h4>
 
                     <div class="table-responsive">
                         <table class="table" id="tabla-diplomado">
-                           <tr  >
-                            <td class="info-event">Inicio:</td>
-                            <td>20 de abril al 13 de junio</td>
-                          </tr>
-                           <tr  >
-                            <td class="info-event">Duración:</td>
-                            <td> 18 sesiones</td>
-                          </tr>
-                         
-                          <tr  >
-                            <td class="info-event">Metodología:</td>
-                            <td>16 Sesiones virtuales de capacitación. <br> 
-                            2 Sesiones presenciales de capacitación.  <br> 
-                            Sesiones de debate a través de la presentación de casos hipotéticos. </td>
-                          </tr>
-                          <tr>
-                            <td class="info-event" >Hora:</td>
-                            <td>Martes y Jueves 7:00 pm - 9:30 pm <br>
-                              Sábados 9.30 am – 12.30 am</td>
-                          </tr>
-                         
-                        
-                          <tr>
-                            <td class="info-event">Inscripciones:</td>
-                            <td>idhdes@usmp.pe 
-                              <a href="https://docs.google.com/forms/d/e/1FAIpQLScqVC5Vw8GEx2KJztsR5VUQmT7r0bAzQaf9jJmLwLCjbpDCAw/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
-                          </tr>
-                          
-                          <tr>
-                            <td class="info-event">Dirigido:</td>
-                            <td>Público en general, periodistas y estudiantes.
-                              </td>
-                          </tr>
+                               <tr>
+                                <td class="info-event">Inicio:</td>
+                                <td>20 de abril al 13 de junio</td>
+                              </tr>
+                               <tr>
+                                <td class="info-event">Duración:</td>
+                                <td> 18 sesiones</td>
+                              </tr>
+                             
+                              <tr >
+                                <td class="info-event">Metodología:</td>
+                                <td>16 Sesiones virtuales de capacitación. <br> 
+                                2 Sesiones presenciales de capacitación.  <br> 
+                                Sesiones de debate a través de la presentación de casos hipotéticos. </td>
+                              </tr>
+                              <tr>
+                                <td class="info-event" >Hora:</td>
+                                <td>Martes y Jueves 7:00 pm - 9:30 pm <br>
+                                  Sábados 9.30 am – 12.30 am</td>
+                              </tr>
+                             
+                            
+                              <tr>
+                                <td class="info-event">Inscripciones:</td>
+                                <td>idhdes@usmp.pe 
+                                  <a href="https://docs.google.com/forms/d/e/1FAIpQLScqVC5Vw8GEx2KJztsR5VUQmT7r0bAzQaf9jJmLwLCjbpDCAw/viewform?embedded=true" target="_blank"><button class="btn-ins" >Ficha de inscripción</button></a></td>
+                              </tr>
+                              
+                              <tr>
+                                <td class="info-event">Dirigido:</td>
+                                <td>Público en general, periodistas y estudiantes.
+                                  </td>
+                              </tr>
                           
                         </table>
+
+
                     </div>
                   
-                 <h5 class="titleH5">Información</h5>  
+
+                    <h5 class="titleH5">Información</h5>  
                       <p class="txt-General">
                         <b>Objetivo:</b> <br>
                       </p> 
+
                       <p class="txt-General">
                         
                         Las personas que participen en el Curso-Taller desarrollarán una serie competencias que les permitirán:
                       </p>
+
                       <ul class="list-expo">
                           <li><span class="ion-android-done-all"></span> Identificar los principales problemas que se vinculan con la libertad de expresión en las sociedades contemporáneas.</li>
 
@@ -483,92 +621,92 @@
 
                           <li><span class="ion-android-done-all"></span> Fomentar una cultura de respeto y promoción del derecho a la libertad de expresión, por su indesligable conexión con el principio democrático.</li>
                      </ul>
-                  <h5 class="titleH5">Temario</h5>  
-                  <ul class="list-expo">
-                      <li><span class="ion-document-text"></span> Libertad de expresión y democracia.</li>
+                    <h5 class="titleH5">Temario</h5>  
+                    <ul class="list-expo">
+                        <li><span class="ion-document-text"></span> Libertad de expresión y democracia.</li>
 
-                      <li><span class="ion-document-text"></span> El marco jurídico internacional de la libertad de expresión. </li>
+                        <li><span class="ion-document-text"></span> El marco jurídico internacional de la libertad de expresión. </li>
 
-                      <li><span class="ion-document-text"></span> ¿Supuestos de procedencia de censura previa?</li>
+                        <li><span class="ion-document-text"></span> ¿Supuestos de procedencia de censura previa?</li>
 
-                      <li><span class="ion-document-text"></span> Restricciones indirectas de la libertad de expresión</li>
+                        <li><span class="ion-document-text"></span> Restricciones indirectas de la libertad de expresión</li>
 
-                      <li><span class="ion-document-text"></span> Las responsabilidades ulteriores frente al uso arbitrario de la expresión.</li>
+                        <li><span class="ion-document-text"></span> Las responsabilidades ulteriores frente al uso arbitrario de la expresión.</li>
 
-                      <li><span class="ion-document-text"></span> Reparaciones frente a violaciones al derecho a la libertad de expresión</li>
+                        <li><span class="ion-document-text"></span> Reparaciones frente a violaciones al derecho a la libertad de expresión</li>
 
-                      <li><span class="ion-document-text"></span> Libertad de expresión y la especial protección a la prensa: el rol del publicwatchdog y la doctrina de la mala fe.</li>
+                        <li><span class="ion-document-text"></span> Libertad de expresión y la especial protección a la prensa: el rol del publicwatchdog y la doctrina de la mala fe.</li>
 
-                      <li><span class="ion-document-text"></span> Independencia y pluralismo de los medios de comunicación.</li>
+                        <li><span class="ion-document-text"></span> Independencia y pluralismo de los medios de comunicación.</li>
 
-                      <li><span class="ion-document-text"></span> Libertad de expresión y participación política</li>
+                        <li><span class="ion-document-text"></span> Libertad de expresión y participación política</li>
 
-                      <li><span class="ion-document-text"></span> La libertad de expresión en el mundo digital.</li>
+                        <li><span class="ion-document-text"></span> La libertad de expresión en el mundo digital.</li>
 
-                      <li><span class="ion-document-text"></span> Material "obsceno" y libertad de expresión.</li>
+                        <li><span class="ion-document-text"></span> Material "obsceno" y libertad de expresión.</li>
 
-                      <li><span class="ion-document-text"></span> Discursos de odio y protección de minorías.</li>
+                        <li><span class="ion-document-text"></span> Discursos de odio y protección de minorías.</li>
 
-                      <li><span class="ion-document-text"></span> Negacionismo y libertad de expresión.</li>
+                        <li><span class="ion-document-text"></span> Negacionismo y libertad de expresión.</li>
 
-                      <li><span class="ion-document-text"></span> Libertad de expresión de autoridades: el caso de los jueces, policías y militares.</li>
+                        <li><span class="ion-document-text"></span> Libertad de expresión de autoridades: el caso de los jueces, policías y militares.</li>
 
-                      <li><span class="ion-document-text"></span> La criminalización de la libertad de expresión.</li>
+                        <li><span class="ion-document-text"></span> La criminalización de la libertad de expresión.</li>
 
-                      <li><span class="ion-document-text"></span> El rol de la UNESCO en la promoción de la libertad de expresión como un derecho humano fundamental.</li>
+                        <li><span class="ion-document-text"></span> El rol de la UNESCO en la promoción de la libertad de expresión como un derecho humano fundamental.</li>
 
-                      <li><span class="ion-document-text"></span> El rol de la UNESCO en la promoción de la libertad de expresión como un derecho humano fundamental.</li>
-                  </ul>                  
+                        <li><span class="ion-document-text"></span> El rol de la UNESCO en la promoción de la libertad de expresión como un derecho humano fundamental.</li>
+                    </ul>                  
 
-                  <h5 class="titleH5">Precios</h5>  
-                      <p class="txt-General">
-                      <b>Público en general:</b>  s/.500<br> 
-                      <b>Profesores, egresados y estudiantes de la USMP:</b>   s/.400 <br>
-                      <b>Corporativo (3 a más personas) :</b> s/.350 <br>
-                      <b>Número de Cuenta:</b> Aún no habilitado.
-                      </p>
+                      <h5 class="titleH5">Precios</h5>  
+                          <p class="txt-General">
+                          <b>Público en general:</b>  s/.500<br> 
+                          <b>Profesores, egresados y estudiantes de la USMP:</b>   s/.400 <br>
+                          <b>Corporativo (3 a más personas) :</b> s/.350 <br>
+                          <b>Número de Cuenta:</b> Aún no habilitado.
+                          </p>
 
-                  <h5 class="titleH5">Expositores</h5>  
-                       <ul class="list-expo">
+                      <h5 class="titleH5">Expositores</h5>  
+                           <ul class="list-expo">
+                            
+                                <li><span class="ion-person"></span> Andrea Harman Coordinadora en Comunicaciones e Información Pública de la UNESCO.</li>
+
+                                <li><span class="ion-person"></span> Betsabé Marciana Burgo Profesora asociada de la PUCP. Con maestría en Derecho Constitucional por la USMP, y Doctorada en Derecho por la Universidad de Castilla-La Mancha. </li>
+
+                                <li><span class="ion-person"></span>  Oscar Andrés Pazo Pineda Coordinador del Área de Formación Académica del IDHDES-USMP. Asesor Jurisdiccional en el Tribunal Constitucional. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law.</li>
+
+                                <li><span class="ion-person"></span> Claudio Renato Abel Sotelo Torres Abogado por la USMP. Con estudios culminados en el Master de Derechos Fundamentales de la Universidad Carlos III de Madrid. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law. Ha desarrollado una estancia académica en la Corte Interamericana de Derechos Humanos.</li>
+
+                                <li><span class="ion-person"></span> Benji Gregory Espinoza Ramos Abogado y docente de la USMP. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law. Ha desarrollado una estancia académica en la Corte Interamericana de Derechos Humanos.</li>
+
+                                <li><span class="ion-person"></span> Juan Carlos Portugal Sánchez. Abogado y docente de la USMP. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law.</li>
+       
+
+                             </ul> 
+                       <h5 class="titleH5">Requisitos </h5>  
+                          <p class="txt-General">
+                            1. Llenar la ficha electrónica de inscripción.
+                                  <br>
+                            2. Remitir un correo electrónico a idhdes@usmp.pe , con la copia escaneada simple del DNI y carné universitario si corresponde.      
+                          </p>
+                        <h5 class="titleH5">Certificación </h5>  
+                          <p class="txt-General">
+                           A los participantes asistentes del Curso de Alta Especialización sobre libertad de expresión y democracia en las sociedades contemporáneas.      
+                          </p>  
+                      
+                      <hr class="hr-editorial">
+                          <p class="txt-info"><span class="ion-android-clipboard"></span>  Tambien se realizarón los siguientes Cursos:</p>
                         
-                            <li><span class="ion-person"></span> Andrea Harman Coordinadora en Comunicaciones e Información Pública de la UNESCO.</li>
+                            <ul class="list-expo" id="short2">
+                            
+                                <li><span class="ion-android-checkbox"></span>
+                                 Curso de Especialización en Ecoeficiencia y Sostenibilidad
+                                </li>
+                                <li><span class="ion-android-checkbox"></span>
+                                  Curso en gestión socioambiental y desarrollo sostenible (agosto a octubre 2015)
 
-                            <li><span class="ion-person"></span> Betsabé Marciana Burgo Profesora asociada de la PUCP. Con maestría en Derecho Constitucional por la USMP, y Doctorada en Derecho por la Universidad de Castilla-La Mancha. </li>
-
-                            <li><span class="ion-person"></span>  Oscar Andrés Pazo Pineda Coordinador del Área de Formación Académica del IDHDES-USMP. Asesor Jurisdiccional en el Tribunal Constitucional. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law.</li>
-
-                            <li><span class="ion-person"></span> Claudio Renato Abel Sotelo Torres Abogado por la USMP. Con estudios culminados en el Master de Derechos Fundamentales de la Universidad Carlos III de Madrid. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law. Ha desarrollado una estancia académica en la Corte Interamericana de Derechos Humanos.</li>
-
-                            <li><span class="ion-person"></span> Benji Gregory Espinoza Ramos Abogado y docente de la USMP. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law. Ha desarrollado una estancia académica en la Corte Interamericana de Derechos Humanos.</li>
-
-                            <li><span class="ion-person"></span> Juan Carlos Portugal Sánchez. Abogado y docente de la USMP. Estudios de Especialización en Derechos Humanos por la American University Washington College of Law.</li>
-   
-
-                         </ul> 
-                   <h5 class="titleH5">Requisitos </h5>  
-                      <p class="txt-General">
-                        1. Llenar la ficha electrónica de inscripción.
-                              <br>
-                        2. Remitir un correo electrónico a idhdes@usmp.pe , con la copia escaneada simple del DNI y carné universitario si corresponde.      
-                      </p>
-                    <h5 class="titleH5">Certificación </h5>  
-                      <p class="txt-General">
-                       A los participantes asistentes del Curso de Alta Especialización sobre libertad de expresión y democracia en las sociedades contemporáneas.      
-                      </p>  
-                  
-                  <hr class="hr-editorial">
-                      <p class="txt-info"><span class="ion-android-clipboard"></span>  Tambien se realizarón los siguientes Cursos:</p>
-                    
-                        <ul class="list-expo" id="short2">
-                        
-                            <li><span class="ion-android-checkbox"></span>
-                             Curso de Especialización en Ecoeficiencia y Sostenibilidad
-                            </li>
-                            <li><span class="ion-android-checkbox"></span>
-                              Curso en gestión socioambiental y desarrollo sostenible (agosto a octubre 2015)
-
-                            </li>
-
+                                </li>
+                            </ul>
 
 
                 </div>
@@ -579,134 +717,131 @@
 
                  
                   
-                  <h4 class="titleH4 text-center">CURSOS IN HOUSE</h4> 
+                      <h4 class="titleH4 text-center">CURSOS IN HOUSE</h4> 
 
-                   <p class="txt-General">
-                    Los cursos in house se desarrollan de forma anual.  Su duración y contenido responde a las necesidades de la institución pública o privada, organización o empresa contratante. <br> 
-                    La certificación se da a título de la Universidad de San Martín de Porres y por el número total de horas académicas. <br> 
-                    La estructura de los cursos y la plana docente se desarrolla en función a los requerimientos de la institución pública o privada, organización o empresa contratante. <br>
+                       <p class="txt-General">
+                        Los cursos in house se desarrollan de forma anual.  Su duración y contenido responde a las necesidades de la institución pública o privada, organización o empresa contratante. <br> 
+                        La certificación se da a título de la Universidad de San Martín de Porres y por el número total de horas académicas. <br> 
+                        La estructura de los cursos y la plana docente se desarrolla en función a los requerimientos de la institución pública o privada, organización o empresa contratante. <br>
 
-                    Nuestros cursos in house sugeridos son:
+                        Nuestros cursos in house sugeridos son:
 
 
-                  </p>
+                      </p>
 
-                  <h5 class="titleH5-sub">1. GESTION PÚBLICA Y DESARROLLO SOSTENIBLE </h5> 
-                  
-                  <p class="txt-General">
-                    DESCRIPCION: En el 2015, el Perú fue uno de los países en comprometerse con los 17 objetivos de desarrollo sostenible al 2030. Una adecuada gestión pública requiere voluntad política  comprometida con la ética de la sostenibilidad. Aquella que equilibra las necesidades del ser humano y la importancia de su medio ambiente. <br>
-                    MINIMO DE PARTICIPANTES:        10 PERSONAS
+                      <h5 class="titleH5-sub">1. GESTION PÚBLICA Y DESARROLLO SOSTENIBLE </h5> 
+                      
+                      <p class="txt-General">
+                        DESCRIPCION: En el 2015, el Perú fue uno de los países en comprometerse con los 17 objetivos de desarrollo sostenible al 2030. Una adecuada gestión pública requiere voluntad política  comprometida con la ética de la sostenibilidad. Aquella que equilibra las necesidades del ser humano y la importancia de su medio ambiente. <br>
+                        MINIMO DE PARTICIPANTES:        10 PERSONAS
 
-                  </p> 
+                      </p> 
 
-                  <h5 class="titleH5-sub">2. ECONOMIA VERDE Y GESTION DE RESIDUOS  </h5> 
+                      <h5 class="titleH5-sub">2. ECONOMIA VERDE Y GESTION DE RESIDUOS  </h5> 
 
-                  <p class="txt-General">DESCRIPCION: Una adecuada gestión de los residuos puede no solo generar una economía respetuosa del medio ambiente, que aproveche los recursos de manera eficiente sino que se instituye como un tipo de economía que genera modernización y puestos de trabajo.  <br>
-                  MINIMO DE PARTICIPANTES:      10 PERSONAS
-                  </p>
-                  
-                  
+                      <p class="txt-General">DESCRIPCION: Una adecuada gestión de los residuos puede no solo generar una economía respetuosa del medio ambiente, que aproveche los recursos de manera eficiente sino que se instituye como un tipo de economía que genera modernización y puestos de trabajo.  <br>
+                      MINIMO DE PARTICIPANTES:      10 PERSONAS
+                      </p>
+                      
+                      
 
-                   <h5 class="titleH5-sub">3.  DERECHOS DE LAS PERSONAS CON DISCAPACIDAD</h5>
-                   <p class="txt-General">
+                       <h5 class="titleH5-sub">3.  DERECHOS DE LAS PERSONAS CON DISCAPACIDAD</h5>
+                       <p class="txt-General">
 
-                  DESCRIPCION: En Estado con sistema jurídico de adecuada recepción del derecho internacional y una Institucionalidad fuerte, las personas con discapacidad serán adecuada y progresivamente protegidas en sus derechos fundamentales. <br>
+                      DESCRIPCION: En Estado con sistema jurídico de adecuada recepción del derecho internacional y una Institucionalidad fuerte, las personas con discapacidad serán adecuada y progresivamente protegidas en sus derechos fundamentales. <br>
 
-                  MINIMO DE PARTICIPANTES:      10 PERSONAS
-                  </p>
+                      MINIMO DE PARTICIPANTES:      10 PERSONAS
+                      </p>
 
-                  <h5 class="titleH5-sub">4. RECURSOS HUMANOS Y DERECHOS FUNDAMENTALES</h5>
-                  <p class="txt-General">
+                      <h5 class="titleH5-sub">4. RECURSOS HUMANOS Y DERECHOS FUNDAMENTALES</h5>
+                      <p class="txt-General">
 
-                  DESCRIPCION: La dirección de recursos humanos es parte importante de toda empresa. La correcta organización del talento humano no puede dejar de lado la normatividad laboral y el respeto de los derechos fundamentales. 
-                  <br>
-                  MINIMO DE PARTICIPANTES:      10 PERSONAS
+                      DESCRIPCION: La dirección de recursos humanos es parte importante de toda empresa. La correcta organización del talento humano no puede dejar de lado la normatividad laboral y el respeto de los derechos fundamentales. 
+                      <br>
+                      MINIMO DE PARTICIPANTES:      10 PERSONAS
 
-                  </p>
-
-                 
-                
+                      </p>
 
                 </div>
         <!-- -------------------------- FIN  IN HOUSE------------------------ -->         
                
 
                 <!-- TALLERES -->
-                 <div id="menu4" class="tab-pane fade">
+               <div id="menu4" class="tab-pane fade">
 
-                 <h4 class="titleH4 text-center"> TALLERES CON ENFASIS EN DERECHOS HUMANOS</h4>
+                     <h4 class="titleH4 text-center"> TALLERES CON ENFASIS EN DERECHOS HUMANOS</h4>
 
-                    <p class="txt-General">
+                        <p class="txt-General">
 
-                  Los talleres con énfasis en Derechos Humanos, comprenden diversas materias que tienen como finalidad promover el aprendizaje de los derechos humanos, su concientización así como dotar a los participantes del conocimiento y de las herramientas necesarias para desenvolverse en su ejercicio profesional.
+                      Los talleres con énfasis en Derechos Humanos, comprenden diversas materias que tienen como finalidad promover el aprendizaje de los derechos humanos, su concientización así como dotar a los participantes del conocimiento y de las herramientas necesarias para desenvolverse en su ejercicio profesional.
 
-                     <br> 
-                  Los talleres con énfasis en Derechos Humanos se desarrollan de forma trimestral.  Para la apertura del Taller se necesita como mínimo 10 participantes.   <br> 
-                  La certificación se da a título de la Universidad de San Martín de Porres y por el número total de horas académicas.
-                   </p>
+                         <br> 
+                      Los talleres con énfasis en Derechos Humanos se desarrollan de forma trimestral.  Para la apertura del Taller se necesita como mínimo 10 participantes.   <br> 
+                      La certificación se da a título de la Universidad de San Martín de Porres y por el número total de horas académicas.
+                       </p>
 
-                  <h5 class="titleH5-sub">1. TALLER DE DERECHOS DE LAS PERSONAS CON DISCAPACIDAD</h5>
-                  <p class="txt-General">
-                  Descripción: La accesibilidad de las personas con discapacidad se erige como un principio y derecho en la normatividad peruana e internacional.  Además, es un principio rector de la política pública contenido en el novísimo Plan de Accesibilidad de las personas con discapacidad 2018 – 2023. 
-                  </p>    
-
-
-                  <h5 class="titleH5-sub">2. TALLER DE GESTION PÚBLICA Y DERECHOS HUMANOS</h5>
-                  <p class="txt-General">
-                  Descripción: El objetivo de la gestión pública es simple: solucionar un problema de relevancia política y social. El enfoque en Derechos Humanos coloca en el centro de las políticas públicas al ser humano como ciudadano destinatario de protección de sus derechos humanos. 
-                  </p>
+                      <h5 class="titleH5-sub">1. TALLER DE DERECHOS DE LAS PERSONAS CON DISCAPACIDAD</h5>
+                      <p class="txt-General">
+                      Descripción: La accesibilidad de las personas con discapacidad se erige como un principio y derecho en la normatividad peruana e internacional.  Además, es un principio rector de la política pública contenido en el novísimo Plan de Accesibilidad de las personas con discapacidad 2018 – 2023. 
+                      </p>    
 
 
-                  <h5 class="titleH5-sub">3. TALLER DE PARTICIPACION POLITICA Y DERECHOS POLITICOS</h5>
-                  <p class="txt-General">
-                  Descripción: La garantía de la participación política tanto de los electores como de los elegidos como un derecho humano  en  situación de igualdad otorga legitimidad a una Democracia Transparente y Estable. 
-
-                 </p>
-
-
-                  <h5 class="titleH5-sub">4. TALLER POLITICAS PÚBLICAS Y VIOLENCIA CONTRA LA MUJER</h5>
-                  <p class="txt-General">
-                  Descripción: Lamentablemente, la violencia contra la mujer ha cobrado importancia en el acontecer nacional. Actual. Es importante que el estado no solo adopte medidas de persecución de los delitos contra la mujer sino también se debe desarrollar una política pública destinada a la remoción de las causas estructurales de la violencia de género. 
-                  </p>
-
-
-                  <h5 class="titleH5-sub">5. TALLER DE LIBERTAD DE EXPRESION</h5>
-                  <p class="txt-General">
-                  Descripción: Tanto el sistema interamericano y el Sistema universal de derechos humanos protegen y garantizan el derecho a la libertad de expresión, que en la actualidad no solo se manifiesta en las interacciones sociales sino también en el mundo digital. 
+                      <h5 class="titleH5-sub">2. TALLER DE GESTION PÚBLICA Y DERECHOS HUMANOS</h5>
+                      <p class="txt-General">
+                      Descripción: El objetivo de la gestión pública es simple: solucionar un problema de relevancia política y social. El enfoque en Derechos Humanos coloca en el centro de las políticas públicas al ser humano como ciudadano destinatario de protección de sus derechos humanos. 
                       </p>
 
 
-                  <h5 class="titleH5-sub">6. TALLER DERECHO AMBIENTAL Y DESARROLLO SOSTENIBLE</h5>
-                  <p class="txt-General">
-                  Descripción: El sector extractivo forma parte importante de la economía nacional. El desarrollo de una economía respetuosa del derecho ambiental es necesario para equilibrar el derecho al desarrollo y el respeto del desarrollo de las generaciones futuras.
+                      <h5 class="titleH5-sub">3. TALLER DE PARTICIPACION POLITICA Y DERECHOS POLITICOS</h5>
+                      <p class="txt-General">
+                      Descripción: La garantía de la participación política tanto de los electores como de los elegidos como un derecho humano  en  situación de igualdad otorga legitimidad a una Democracia Transparente y Estable. 
 
-                  </p>
-
-
-                  <h5 class="titleH5-sub">7. TALLER DERECHO INTERNACIONAL DE REFUGIADOS Y MIGRACION</h5>
-                  <p class="txt-General">
-                  Descripción: La repentina migración venezolana en el Perú ha dado relevancia a la discusión en sede nacional del estatus de los migrantes y los refugiados ante el derecho internacional y de los derechos humanos de los que gozan. El pilar del derecho de los refugiados es el principio de no retorno, de obligatorio respeto para el Estado Peruano. 
-                  </p>
+                     </p>
 
 
-                  <h5 class="titleH5-sub">8. TALLER DERECHOS SOCIALES ECONOMICOS Y CULTURALES</h5>
-                  <p class="txt-General">
-                  Descripción: Conocidos como derechos de segunda generación, se centran en la protección del trabajo, el bienestar económico, educación y el desenvolvimiento de la cultura de las personas. Si bien de obligatorio cumplimiento se caracterizan por el principio de progresividad.
+                      <h5 class="titleH5-sub">4. TALLER POLITICAS PÚBLICAS Y VIOLENCIA CONTRA LA MUJER</h5>
+                      <p class="txt-General">
+                      Descripción: Lamentablemente, la violencia contra la mujer ha cobrado importancia en el acontecer nacional. Actual. Es importante que el estado no solo adopte medidas de persecución de los delitos contra la mujer sino también se debe desarrollar una política pública destinada a la remoción de las causas estructurales de la violencia de género. 
                       </p>
 
 
-                  <h5 class="titleH5-sub">9. TALLER DE ESTANDARES INTERNACIONALES DE PROTECCION DE DERECHOS HUMANOS</h5>
-                  <p class="txt-General">
-                  Descripción: El Estado Peruano, como miembro de la Organización de Naciones Unidas tiene la obligación de respetar los derechos humanos en virtud de los artículos 55° y 56° de la Carta de Naciones Unidas. La declaración universal de derechos humanos sentó las bases para el desarrollo de la protección convencional y extraconvencionalidad de los derechos humanos. 
+                      <h5 class="titleH5-sub">5. TALLER DE LIBERTAD DE EXPRESION</h5>
+                      <p class="txt-General">
+                      Descripción: Tanto el sistema interamericano y el Sistema universal de derechos humanos protegen y garantizan el derecho a la libertad de expresión, que en la actualidad no solo se manifiesta en las interacciones sociales sino también en el mundo digital. 
+                          </p>
+
+
+                      <h5 class="titleH5-sub">6. TALLER DERECHO AMBIENTAL Y DESARROLLO SOSTENIBLE</h5>
+                      <p class="txt-General">
+                      Descripción: El sector extractivo forma parte importante de la economía nacional. El desarrollo de una economía respetuosa del derecho ambiental es necesario para equilibrar el derecho al desarrollo y el respeto del desarrollo de las generaciones futuras.
+
                       </p>
 
 
-                  <h5 class="titleH5-sub">10. SISTEMA INTERAMERICANO DE DERECHOS HUMANOS </h5>
-                  <p class="txt-General">
-                  Descripción: La ratificación de la Convención Interamericana de Derechos Humanos y el sometimiento a la competencia contenciosa de la Corte Interamericana ofrece a las personas bajo la jurisdicción del Estado peruano un nivel de protección importante de sus derechos humanos.  Sin embargo, muchos retos quedan por sortear, tanto en el ámbito interno como en la propia institución. 
+                      <h5 class="titleH5-sub">7. TALLER DERECHO INTERNACIONAL DE REFUGIADOS Y MIGRACION</h5>
+                      <p class="txt-General">
+                      Descripción: La repentina migración venezolana en el Perú ha dado relevancia a la discusión en sede nacional del estatus de los migrantes y los refugiados ante el derecho internacional y de los derechos humanos de los que gozan. El pilar del derecho de los refugiados es el principio de no retorno, de obligatorio respeto para el Estado Peruano. 
                       </p>
 
-                </div>
+
+                      <h5 class="titleH5-sub">8. TALLER DERECHOS SOCIALES ECONOMICOS Y CULTURALES</h5>
+                      <p class="txt-General">
+                      Descripción: Conocidos como derechos de segunda generación, se centran en la protección del trabajo, el bienestar económico, educación y el desenvolvimiento de la cultura de las personas. Si bien de obligatorio cumplimiento se caracterizan por el principio de progresividad.
+                          </p>
+
+
+                      <h5 class="titleH5-sub">9. TALLER DE ESTANDARES INTERNACIONALES DE PROTECCION DE DERECHOS HUMANOS</h5>
+                      <p class="txt-General">
+                      Descripción: El Estado Peruano, como miembro de la Organización de Naciones Unidas tiene la obligación de respetar los derechos humanos en virtud de los artículos 55° y 56° de la Carta de Naciones Unidas. La declaración universal de derechos humanos sentó las bases para el desarrollo de la protección convencional y extraconvencionalidad de los derechos humanos. 
+                          </p>
+
+
+                      <h5 class="titleH5-sub">10. SISTEMA INTERAMERICANO DE DERECHOS HUMANOS </h5>
+                      <p class="txt-General">
+                      Descripción: La ratificación de la Convención Interamericana de Derechos Humanos y el sometimiento a la competencia contenciosa de la Corte Interamericana ofrece a las personas bajo la jurisdicción del Estado peruano un nivel de protección importante de sus derechos humanos.  Sin embargo, muchos retos quedan por sortear, tanto en el ámbito interno como en la propia institución. 
+                          </p>
+
+              </div>
 
 
               <!-- FIN TALLERES -->
@@ -717,24 +852,23 @@
                        <h4 class="titleH4">"XI ENCUENTRO: EMPRESAS Y DERECHOS HUMANOS ¿PODEMOS GANAR RESPONSABLEMENTE?" 15 AL 19 DE JULIO"</h4>
 
                         <p class="txt-General">
-                       Del 15 al 19 de junio se llevó acabo el XI Encuentro: Empresas y Derechos Humanos ¿Podemos ganar responsablemente?, en las instalaciones de la UPUCP, en cual se contó con la participación como exponente del Dr. Renato Sotelo Torres – Docente Investigador del IDHDES, Abogado Especialista en DDHH del CEDH de la Facultad de Derecho USMP y miembro de Proyecto Ankawa. 
+                           Del 15 al 19 de junio se llevó acabo el XI Encuentro: Empresas y Derechos Humanos ¿Podemos ganar responsablemente?, en las instalaciones de la UPUCP, en cual se contó con la participación como exponente del Dr. Renato Sotelo Torres – Docente Investigador del IDHDES, Abogado Especialista en DDHH del CEDH de la Facultad de Derecho USMP y miembro de Proyecto Ankawa. 
                         </p>
+
                         <figure class="text-center">
                           <img src="images/expositor/renato.png" class="img-responsive" alt="Dr. Renato Sotelo Torre">
                         </figure>
 
                        <p class="txt-General">
 
-                      Cuyo objetivo de la Mesa de discusión: “El rol de las empresas en el desarrollo sostenible del país. Más allá del volumen de negocios”, es el análisis del desempeño empresarial en el desarrollo de la sociedad no solo a través de su función productiva de riquezas sino también en la plena efectividad de los derechos humanos. En este sentido, el estudio de las evidencias de los casos expuesto por el Dr. Renato Sotelo Torres, nos permite conocer que aún existen empresas que no consideran ni brindan el soporte necesario para crear espacios y/o ambientes sanos, adecuados y sostenibles que contribuirían a la motivación del personal.
-                      </p>
-
-                    
-                       <a href="pdf/ANKAWA-Seguridad_DDHH.pdf" target="_blank">
+                          Cuyo objetivo de la Mesa de discusión: “El rol de las empresas en el desarrollo sostenible del país. Más allá del volumen de negocios”, es el análisis del desempeño empresarial en el desarrollo de la sociedad no solo a través de su función productiva de riquezas sino también en la plena efectividad de los derechos humanos. En este sentido, el estudio de las evidencias de los casos expuesto por el Dr. Renato Sotelo Torres, nos permite conocer que aún existen empresas que no consideran ni brindan el soporte necesario para crear espacios y/o ambientes sanos, adecuados y sostenibles que contribuirían a la motivación del personal.
+                        </p>
+                         <a href="pdf/ANKAWA-Seguridad_DDHH.pdf" target="_blank">
                            <b> Materiales de Exposición </b><span class="ion-arrow-right-c"></span>
                          <img src="images/img_pdf.png" alt=""> 
 
 
-                </div>
+                  </div>
 
 
             </div>

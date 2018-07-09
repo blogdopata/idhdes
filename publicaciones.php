@@ -283,6 +283,14 @@
                           </a>
                         </li>
 
+                        <li>
+                          <a href="pdf/informes/informe_tabaco.pdf" target="_blank">
+                           <span class="ion-android-list"></span> 
+                          Informe Tabaco 2.0  <span class="ion-arrow-right-c"></span>
+                         <img src="images/img_pdf.png" alt=""> 
+                          </a>
+                        </li>
+
 
                 </div>
 
