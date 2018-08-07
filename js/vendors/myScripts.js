@@ -157,10 +157,12 @@ $(document).ready(function(){
   
 $(document).ready(function(){
   var pathname = window.location.pathname;
-  /*alert(pathname);*/
+
+  /*alert(pathname);-- /IDHDES/editorial.php */
 
   var nuevo = pathname.split("/");
-  //alert(nuevo[2]);
+  /*alert(nuevo);  -- [,IDHDES,editorial.php]  */
+  /*alert(nuevo[2]);-- editorial.php*/
 
 
   if(nuevo[2] == "nosotros.php") {
@@ -183,7 +185,11 @@ $(document).ready(function(){
  	if(nuevo[2] == "publicaciones.php"){
  		$("#link6").addClass("active");
  		/*$("#footer").addClass("footer-stky");*/
- 	}
+	 }
+	if(nuevo[2] == "concursos.php"){
+		$("#link7").addClass("active");
+		/*$("#footer").addClass("footer-stky");*/
+	}
 
 
   if(nuevo[2] == "") {
